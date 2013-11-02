@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>BrooklynJS | a JavaScript meetup for New York's favorite borough</title>
+    <meta name="description" content="BrooklynJS | a JavaScript meetup for New York's favorite borough">
+    <meta name="viewport" content="width=device-width">
+    <style>
+      body {
+        padding: 0;
+        background: #222;
+        color: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: 300;
+        font-size: 125%;
+        letter-spacing: .015em;
+      }
+
+      header {
+        width: 500px;
+        margin: 20px auto;
+        background: #222;
+        font-weight: bold;
+        font-size: 72px;
+        text-align: left;
+        border-top: 4px solid #fff;
+        line-height: 68px;
+        position: relative;
+      }
+
+      header span {
+        position: absolute;
+        top: 7px;
+        height: 72px;
+        width: 72px;
+        border-radius: 50%;
+        line-height: 72px;
+        font-size: 60px;
+        text-align: center;
+        background: #f7df1e;
+        color: #222;
+      }
+
+      header .j {
+        right: 80px;
+      }
+
+      header .s {
+        right: 0;
+      }
+
+      article {
+        width: 500px;
+        margin: 20px auto;
+      }
+
+      article p {
+        border: 1px solid #fff;
+        margin: 60px 0;
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+      }
+
+      ol {
+        list-style-type: none;
+        list-style-position: inside;
+        text-align: left;
+        margin: 0 auto;
+        padding: 0 0 0 90px;
+      }
+
+      time {
+        color: #999;
+        position: absolute;
+        font-size: 16px;
+        left: -125px;
+        top: 20px;
+        width: 100px;
+        text-align: right;
+      }
+
+      .stop {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .stop:before {
+        content: "";
+        width: 12px;
+        height: 12px;
+        position: absolute;
+        background-color: #222;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        display: block;
+        left: -9px;
+        top: 22px;
+      }
+
+      .end.stop:before {
+        background-color: #fff;
+      }
+
+      .walk {
+        border-left: 8px dotted #666;
+        margin: -12px 0 -25px -4px;
+        padding: 30px 0 40px 26px;
+      }
+
+      .ride {
+        border-left: 8px solid #f7df1e;
+        margin: -17px 0 -25px -4px;
+        height: 60px;
+      }
+
+      .speaker {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .speaker:before {
+        content: "";
+        width: 8px;
+        height: 8px;
+        position: absolute;
+        background-color: #f7df1e;
+        display: block;
+        left: 2px;
+        top: 25px;
+      }
+
+      small {
+        font-size: 16px;
+        color: #999;
+        display: block;
+      }
+
+      a {
+        color: #ddd;
+        text-decoration: none;
+        border-bottom: 1px dotted;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      Brooklyn
+      <span class="j">J</span>
+      <span class="s">S</span>
+    </header>
+
+    <article>
+      <p>
+        PLANNED DISRUPTION<br>
+        Thursday, November 14th, at 7pm<br><br>
+        Please follow the directions below.
+      </p>
+      <ol>
+        <li class="end stop">
+          <time>now</time>
+          <small>See the event board to</small>
+          <div><a href="javascript:alert('coming soon')">Get your ticket</a> and <a href="javascript:alert('coming soon')">tell your friends</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time>
+            <script>
+              document.write(
+                  new Date(2013,10,14).getDate()
+                - new Date().getDate()
+              )
+            </script> days
+          </time>
+          <small>Just chill out and</small>
+          <div>Wait patiently</div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time>11/14</time>
+          <small>Make your way to our awesome venue,</small>
+          <div><a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a></div>
+        </li>
+        <li class="walk">
+          <small>Open the gray door in back, and</small>
+          <div>Walk upstairs</div>
+        </li>
+        <li class="stop">
+          <time>7:00p</time>
+          <small>Grab a seat in time for the</small>
+          <div>Introduction and kickoff</div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>7:10p</time>
+          <small>Discover the potential of natural UIs with</small>
+          <div><a href="//vinceallen.com">Vince Allen</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>7:20p</time>
+          <small>Listen to the hacker behind JS BPM detection,</small>
+          <div><a href="//twitter.com/jandet">Janessa Det</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>7:30p</time>
+          <small>Learn how GitHub ships a fast mobile site, with</small>
+          <div><a href="//patnakajima.com">Pat Nakajima</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>7:40p</time>
+          <small>Dream up computers you can wear, just like</small>
+          <div><a href="//sarajchipps.com">Sara Chipps</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>7:50p</time>
+          <small>Master node.js streams with none other than</small>
+          <div><a href="//ejohn.org">John Resig</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="stop">
+          <time>8:00p</time>
+          <small>Wind down with the</small>
+          <div>Wrap-up</div>
+        </li>
+        <li class="walk">
+          <small>Round-trip downstairs to the bar to get some</small>
+          <div>Local <a href="http://www.beermenus.com/places/2237-61-local">craft beer</a> / soda</div>
+        </li>
+        <li class="end stop">
+          <time>9:00p</time>
+          <small>Geek out with your boroughmates during</small>
+          <div>Social hour</div>
+        </li>
+      </ol>
+    </article>
+  </body>
+</html>
