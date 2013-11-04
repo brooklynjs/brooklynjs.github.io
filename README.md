@@ -1,4 +1,4 @@
 brooklynjs
 ==========
 
-A JavaScript meetup for New York's favorite borough
+The world's most popular programming language, in New York's most popular borough
