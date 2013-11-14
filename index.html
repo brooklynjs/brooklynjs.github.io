@@ -174,11 +174,17 @@
         <li class="end stop">
           <time>
             <script>
-              document.write(
-                  new Date(2013,10,14).getDate()
-                - new Date().getDate()
-              )
-            </script> days
+              void function() {
+                var n =
+                    new Date(2013,10,14).getDate()
+                  - new Date().getDate()
+
+                document.write(
+                  n >  1 ? n + " days" :
+                  n == 1 ? "A while" : ""
+                )
+              }()
+            </script>
           </time>
           <small>Nothing to do but</small>
           <div>Wait patiently</div>
