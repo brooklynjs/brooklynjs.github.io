@@ -1,3 +1,5 @@
+module.exports =
+
   0     // budget.js - keeping the books for @brooklyn_js
         // by @jedschmidt and @brianloveswords
 
