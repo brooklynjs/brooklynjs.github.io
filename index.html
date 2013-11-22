@@ -150,6 +150,25 @@
         border-bottom: 1px dotted;
       }
     </style>
+    <script>
+      function timeLeft() {
+        var n =
+            new Date(2013,11,16).getDate()
+          - new Date().getDate()
+
+        document.write(
+          n >  1 ? n + " days" :
+          n == 1 ? "1 day"     :
+          n == 0 ? "A while"   : ""
+        )
+      }
+
+      function speakerTime() {
+        speakerTime.i = -~speakerTime.i
+
+        document.write("7:" + speakerTime.i + "0p")
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -173,19 +192,7 @@
         <li class="ride"></li>
         <li class="end stop">
           <time>
-            <script>
-              void function() {
-                var n =
-                    new Date(2013,11,16).getDate()
-                  - new Date().getDate()
-
-                document.write(
-                  n >  1 ? n + " days" :
-                  n == 1 ? "1 day"     :
-                  n == 0 ? "A while"   : ""
-                )
-              }()
-            </script>
+            <script>timeLeft()</script>
           </time>
           <small>Nothing to do but</small>
           <div>Wait patiently</div>
@@ -207,31 +214,35 @@
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>7:10p</time>
+          <time><script>speakerTime()</script></time>
           <small>Discover the potential of natural UIs with</small>
           <div><a href="//vinceallen.com">Vince Allen</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>7:20p</time>
+          <time><script>speakerTime()</script></time>
+          <!-- Change the following two fields to apply for this slot -->
           <small>Listen to our second speaker, or better yet,</small>
           <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE THE SECOND SPEAKER</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>7:30p</time>
+          <time><script>speakerTime()</script></time>
+          <!-- Change the following two fields to apply for this slot -->
           <small>Listen to our third speaker, or better yet,</small>
           <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE THE THIRD SPEAKER</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>7:40p</time>
+          <time><script>speakerTime()</script></time>
+          <!-- Change the following two fields to apply for this slot -->
           <small>Listen to our fourth speaker, or better yet,</small>
           <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE THE FOURTH SPEAKER</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>7:50p</time>
+          <time><script>speakerTime()</script></time>
+          <!-- Change the following two fields to apply for this slot -->
           <small>Listen to our last speaker, or better yet,</small>
           <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE THE LAST SPEAKER</a></div>
         </li>
