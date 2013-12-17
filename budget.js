@@ -24,7 +24,7 @@ module.exports =
          // featuring @tbuchok, @vinceallenvince, @buritica, @benjamn, and @reconbot
 
 + 665    // ticket sales  @peatix
-+ 360    // sponsorship   @crushlovely
++ 450    // sponsorship   @crushlovely
 
 - 644.38 // bar tab       @61local
 - 107    // tickets       @peatix
