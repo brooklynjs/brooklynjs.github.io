@@ -1,4 +1,4 @@
-module.exports =
+module.exports = (
 
   0      // budget.js - keeping the books for @brooklyn_js
          // by @jedschmidt and @brianloveswords
@@ -35,3 +35,5 @@ module.exports =
 
 - 105.70 // donation      @GirlsWhoCode
 - 105.70 // donation      @ScriptEdnyc
+
+).toFixed(2)
