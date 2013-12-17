@@ -32,3 +32,6 @@ module.exports =
 - 50     // venue         @61local
 - 29.55  // VGA cable     @amazon
 - 7.49   // paper tickets @amazon
+
+- 105.70 // donation      @GirlsWhoCode
+- 105.70 // donation      @ScriptEdnyc
