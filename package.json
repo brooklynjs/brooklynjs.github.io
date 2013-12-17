@@ -1,0 +1,18 @@
+{
+  "name": "brooklynjs",
+  "version": "0.0.2",
+  "description": "The world's most popular programming language, in New York's most popular borough",
+  "scripts": {
+    "test": "node budget.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brooklynjs/brooklynjs.github.io.git"
+  },
+  "author": "Jed Schmidt",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/brooklynjs/brooklynjs.github.io/issues"
+  },
+  "homepage": "http://brooklynjs.com"
+}
