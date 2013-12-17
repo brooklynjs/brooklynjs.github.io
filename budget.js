@@ -19,3 +19,16 @@ module.exports =
 
 - 50.50  // donation      @GirlsWhoCode
 - 50.50  // donation      @ScriptEdnyc
+
+         // BrooklynJS #2, 2013-12-16T19:00Z at @61Local
+         // featuring @tbuchok, @vinceallenvince, @buritica, @benjamn, and @reconbot
+
++ 665    // ticket sales  @peatix
++ 360    // sponsorship   @crushlovely
+
+- 644.38 // bar tab       @61local
+- 107    // tickets       @peatix
+- 65.18  // stickers      @diginate
+- 50     // venue         @61local
+- 29.55  // VGA cable     @amazon
+- 7.49   // paper tickets @amazon
