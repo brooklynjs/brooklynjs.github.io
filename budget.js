@@ -3,7 +3,8 @@ process.exit(
     0.00 // budget.js - keeping the books for @brooklyn_js
          // by @jedschmidt and @brianloveswords
 
-         // cat budget.js | node -p | xargs -0 printf 'balance = %s'
+         // for details, see our accountant:
+         // https://travis-ci.org/brooklynjs/brooklynjs.github.io
 
          // BrooklynJS #1, 2013-11-14T19:00Z at @61Local
          // featuring @nakajima, @jandet, @SaraJChipps, and @jeresig
