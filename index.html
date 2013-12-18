@@ -152,9 +152,10 @@
     </style>
     <script>
       function timeLeft() {
-        var n =
-            new Date(2014,1,22).getDate()
-          - new Date().getDate()
+        var now = new Date
+        var then = new Date(2014,0,22)
+
+        var n = 0 | (then - now) / 86400000
 
         document.write(
           n >  1 ? n + " days" :
