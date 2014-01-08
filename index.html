@@ -151,9 +151,36 @@
       }
     </style>
     <script>
+      var then = new Date(2014,0,22)
+
+      var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
+      var months = 'January February March April May June July August September October November December'.split(' ')
+
+      function suffixed(number) {
+        if (number > 9 && number < 21)
+          return number + "th"
+        var lastDigit = number % 10
+        switch (lastDigit) {
+         case 1: return number + "st"
+         case 2: return number + "nd"
+         case 3: return number + "rd"
+        default: return number + "th"
+        }
+      }
+
+      function longEventDate() {
+        var weekday = days[then.getDay()]
+        var month = months[then.getMonth()]
+        var date = month + " " + suffixed(then.getDate())
+        document.write([weekday, date, "at 7pm"].join(", "))
+      }
+
+      function shortEventDate() {
+        document.write((then.getMonth()+1) + "/" + then.getDate())
+      }
+
       function timeLeft() {
         var now = new Date
-        var then = new Date(2014,0,22)
 
         var n = 0 | (then - now) / 86400000
 
@@ -181,7 +208,7 @@
     <article>
       <p>
         PLANNED DISRUPTION<br>
-        Wednesday, January 22nd, at 7pm<br><br>
+        <script>longEventDate()</script><br><br>
         Please follow the directions below.
       </p>
       <ol>
@@ -200,7 +227,7 @@
         </li>
         <li class="ride"></li>
         <li class="end stop">
-          <time>1/22</time>
+          <time><script>shortEventDate()</script></time>
           <small>Make your way to our awesome venue,</small>
           <div><a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a></div>
         </li>
