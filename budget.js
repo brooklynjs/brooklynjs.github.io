@@ -21,7 +21,7 @@ process.exit(
 -   14.00 // domain        @namecheap
 
 -   50.50 // donation      @GirlsWhoCode
--   50.50 // donation      @scriptedorg
+-   50.50 // donation      @ScriptEdOrg
 
           // BrooklynJS #2, 2013-12-16T19:00Z at @61Local
           // featuring @tbuchok, @vinceallenvince, @buritica, @benjamn, and @reconbot
@@ -38,7 +38,7 @@ process.exit(
 -    7.49 // paper tickets @amazon
 
 -  105.70 // donation      @GirlsWhoCode
--  105.70 // donation      @scriptedorg
+-  105.70 // donation      @ScriptEdOrg
 
           // BrooklynJS #3, 2014-01-22T19:00Z at @61Local
           // featuring @thlorenz, @donohoe, @mathisonian, and @jennschiffer
@@ -55,6 +55,6 @@ process.exit(
 -   10.99 // 3.5mm cable   @amazon
 
 -  577.43 // donation      @GirlsWhoCode
--  577.43 // donation      @scriptedorg
+-  577.43 // donation      @ScriptEdOrg
 
 )
