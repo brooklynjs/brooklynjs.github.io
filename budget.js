@@ -1,13 +1,13 @@
 process.exit(
 
      0.00 // budget.js - keeping the books for @brooklyn_js
-	  // by @jedschmidt and @brianloveswords
+          // by @jedschmidt and @brianloveswords
 
-	  // for details, see our accountant:
-	  // https://travis-ci.org/brooklynjs/brooklynjs.github.io
+          // for details, see our accountant:
+          // https://travis-ci.org/brooklynjs/brooklynjs.github.io
 
-	  // BrooklynJS #1, 2013-11-14T19:00Z at @61Local
-	  // featuring @nakajima, @jandet, @SaraJChipps, and @jeresig
+          // BrooklynJS #1, 2013-11-14T19:00Z at @61Local
+          // featuring @nakajima, @jandet, @SaraJChipps, and @jeresig
 
 +  360.00 // ticket sales  @peatix
 +  350.00 // sponsorship   @github
@@ -23,9 +23,9 @@ process.exit(
 -   50.50 // donation      @GirlsWhoCode
 -   50.50 // donation      @ScriptEdnyc
 
-	  // BrooklynJS #2, 2013-12-16T19:00Z at @61Local
-	  // featuring @tbuchok, @vinceallenvince, @buritica, @benjamn, and @reconbot
-	  // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+          // BrooklynJS #2, 2013-12-16T19:00Z at @61Local
+          // featuring @tbuchok, @vinceallenvince, @buritica, @benjamn, and @reconbot
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
 +  665.00 // ticket sales  @peatix
 +  450.00 // sponsorship   @crushlovely
@@ -40,9 +40,9 @@ process.exit(
 -  105.70 // donation      @GirlsWhoCode
 -  105.70 // donation      @ScriptEdnyc
 
-	  // BrooklynJS #3, 2014-01-22T19:00Z at @61Local
-	  // featuring @thlorenz, @donohoe, @mathisonian, and @jennschiffer
-	  // with special musical guest, @csvsoundsystem
+          // BrooklynJS #3, 2014-01-22T19:00Z at @61Local
+          // featuring @thlorenz, @donohoe, @mathisonian, and @jennschiffer
+          // with special musical guest, @csvsoundsystem
 
 +  970.00 // ticket sales  @peatix
 + 1500.00 // sponsorship   @nodejitsu, @digitalocean, and @harvest
