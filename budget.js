@@ -57,4 +57,7 @@ process.exit(
 -  577.43 // donation      @GirlsWhoCode
 -  577.43 // donation      @ScriptEdOrg
 
+          // BrooklynJS #4, 2014-02-20T19:00Z at @61Local
+          // featuring @amasad, @coderzach, @maryrosecook, @rich_harris, and @susanemcg
+          // with special musical guest, @thlorenz
 )
