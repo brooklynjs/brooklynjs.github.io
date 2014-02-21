@@ -60,4 +60,16 @@ process.exit(
           // BrooklynJS #4, 2014-02-20T19:00Z at @61Local
           // featuring @amasad, @coderzach, @maryrosecook, @rich_harris, and @susanemcg
           // with special musical guest, @thlorenz
+
++ 1210.00 // ticket sales  @peatix
++ 1500.00 // sponsorship   @etsy, @hugeinc, and @bocoup
+
+-  360.00 // bar tab       @61local
+-  163.78 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-   50.00 // venue         @61local
+-   18.61 // nametags      @staples
+
+- 1923.59 // donation      @ScriptEdOrg
+
 )
