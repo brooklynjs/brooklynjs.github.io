@@ -76,4 +76,20 @@ process.exit(
           // featuring  @domenic, @opheliasdaisies, @brycekahle, @frazelledazzell, and @kirbysayshi
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
++ 1590.00 // ticket sales  @peatix
++ 1500.00 // sponsorship   @digitalocean, @tumblreng, and @sfxii
+
+-  460.00 // bar tab       @61local
+-  400.00 // food          @61local
+-  195.00 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-   64.41 // stickers      @diginate
+-   56.76 // cables        @amazon
+-   50.00 // venue         @61local
+-   28.26 // nametags      @amazon
+-   23.99 // KVM switch    @amazon
+
+-  808.78 // donation      @GirlsWhoCode
+-  808.78 // donation      @ScriptEdOrg
+
 )
