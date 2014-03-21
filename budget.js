@@ -73,7 +73,7 @@ process.exit(
 - 1923.59 // donation      @ScriptEdOrg
 
           // BrooklynJS #5, 2014-03-20T19:00Z at @61Local
-          // featuring  @domenic, @opheliasdaisies, @brycekahle, @frazelledazzell, and @__lucas
+          // featuring  @domenic, @opheliasdaisies, @brycekahle, @frazelledazzell, and @kirbysayshi
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
 )
