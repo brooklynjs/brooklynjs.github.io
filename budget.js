@@ -73,7 +73,7 @@ process.exit(
 - 1923.59 // donation      @ScriptEdOrg
 
           // BrooklynJS #5, 2014-03-20T19:00Z at @61Local
-	  // featuring @domenic, @opheliasdaisies, @brycekahle, @frazelledazzell, and @kirbysayshi
+          // featuring @domenic, @opheliasdaisies, @brycekahle, @frazelledazzell, and @kirbysayshi
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
 + 1590.00 // ticket sales  @peatix
@@ -92,9 +92,9 @@ process.exit(
 -  808.78 // donation      @GirlsWhoCode
 -  808.78 // donation      @ScriptEdOrg
 
-	  // BrooklynJS #6, 2014-04-17T19:00Z at @61Local
-	  // featuring @donohoe, @dphiffer, @__lucas, @danordille, and @sarajchipps
-	  // with special musical guest, bathtub jen and the henchmen
+          // BrooklynJS #6, 2014-04-17T19:00Z at @61Local
+          // featuring @donohoe, @dphiffer, @__lucas, @danordille, and @sarajchipps
+          // with special musical guest, bathtub jen and the henchmen
 
 + 1690.00 // ticket sales  @peatix
 + 1500.00 // sponsorship   @spotify, @twilio, and @chartbeat
