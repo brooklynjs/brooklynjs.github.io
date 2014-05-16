@@ -109,9 +109,9 @@ process.exit(
 -  867.99 // donation      @GirlsWhoCode
 -  867.99 // donation      @ScriptEdOrg
 
-	  // BrooklynJS #7, 2014-05-15T19:00Z at @61Local
-	  // featuring @brittanystoroz, @thegaw, @zeigenvector, and @pamasaur
-	  // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+          // BrooklynJS #7, 2014-05-15T19:00Z at @61Local
+          // featuring @brittanystoroz, @thegaw, @zeigenvector, and @pamasaur
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
 + 1640.00 // ticket sales  @peatix
 + 1500.00 // sponsorship   @hugeinc, @PolicyMic, and @YuzuBN
@@ -126,4 +126,5 @@ process.exit(
 -   50.00 // venue         @61local
 
 - 1262.98 // donation      @ScriptEdOrg
+
 )
