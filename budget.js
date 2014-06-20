@@ -127,4 +127,19 @@ process.exit(
 
 - 1262.98 // donation      @ScriptEdOrg
 
+          // BrooklynJS #8, 2014-06-19T19:00Z at @61Local
+          // featuring @amasad, @scottluptowski, @mrspeaker, @dcousineau, and @indexzero
+          // with special musical guest, @balthropalabama
+
++ 1605.00 // ticket sales  @peatix
++ 1000.00 // sponsorship   @digitalocean and @fivethirtyeight
+
+-  500.00 // bar tab       @61local
+-  457.00 // food          @61local
+-  200.00 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-   50.00 // venue         @61local
+
+- 1203.98 // donation      @stbaldricks
+
 )
