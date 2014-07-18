@@ -142,4 +142,22 @@ process.exit(
 
 - 1203.98 // donation      @stbaldricks
 
+          // BrooklynJS #9, 2014-07-17T19:00Z at @61Local
+          // featuring @voodootikigod, @woolypixel, @benjamn, and @peoplespops
+          // with special musical guest, the Brooklyn Accordion Club quartet
+
++ 1635.00 // ticket sales  @peatix
++ 1500.00 // sponsorship   @nytdevs, @bloomberg, and @EmpireJS
+
+-  533.06 // food          @61local
+-  410.00 // bar tab       @61local
+-  243.33 // lodging       @nuhotel
+-  200.00 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-  100.00 // entertainment @61local's Brooklyn Accordion Club
+-   65.47 // stickers      @diginate
+-   50.00 // venue         @61local
+
+- 1339.12 // donation      @ScriptEdOrg
+
 )
