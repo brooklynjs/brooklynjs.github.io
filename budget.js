@@ -160,4 +160,20 @@ process.exit(
 
 - 1339.12 // donation      @ScriptEdOrg
 
+          // BrooklynJS #A, 2014-08-21T19:00Z at @61Local
+          // SPECIAL JERSEYSCRIPT EDITION with @jennschiffer
+          // featuring @frazelledazzell, @_alastair, @helenhousandi, @sranso, and @theglamp
+          // with special musical guest, @ajpiano and @jennschiffer karaoke
+
++ 1650.00 // ticket sales  @peatix
++ 1500.00 // sponsorship   @digitalocean, @bocoup, and @10up
+
+-  533.06 // food          @61local
+-  500.00 // bar tab       @61local
+-  200.00 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-   50.00 // venue         @61local
+
+- 1672.92 // donation      @ScriptEdOrg
+
 )
