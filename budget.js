@@ -176,4 +176,19 @@ process.exit(
 
 - 1672.92 // donation      @ScriptEdOrg
 
+          // BrooklynJS #B, 2014-09-18T19:00Z at @61Local
+          // featuring @whale_eat_squid, @rich_harris, @harthvader, and @vinceallenvince
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 1665.00 // ticket sales  @peatix
++ 1000.00 // sponsorship   @digitalocean and @jibe
+
+-  533.06 // food          @61local
+-  350.00 // bar tab       @61local
+-  200.00 // ticketing     @peatix
+-  194.02 // tokens        @CuboNewYork521
+-   50.00 // venue         @61local
+
+- 1337.92 // donation      @ScriptEdOrg
+
 )
