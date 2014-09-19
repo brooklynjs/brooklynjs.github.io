@@ -187,8 +187,9 @@ process.exit(
 -  350.00 // bar tab       @61local
 -  200.00 // ticketing     @peatix
 -  194.02 // tokens        @CuboNewYork521
+-  150.00 // entertainment @jedschmidt
 -   50.00 // venue         @61local
 
-- 1337.92 // donation      @ScriptEdOrg
+- 1187.92 // donation      @ScriptEdOrg
 
 )
