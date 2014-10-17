@@ -192,4 +192,24 @@ process.exit(
 
 - 1187.92 // donation      @ScriptEdOrg
 
+          // BrooklynJS #C, 2014-10-16T19:00Z at @61Local
+          // featuring @kosamari, @dcmotz, @gscottolson, @mattpodwysocki, and @HackyGoLucky
+          // with special musical guest, @vinceallenvince on slide guitar
+
++ 1680.00 // ticket sales  @peatix
++  500.00 // sponsorship   @NewYorker
++ 1000.00 // sponsorship   @twilio (2014-10, 2014-11, and 2014-12)
++ 1000.00 // sponsorship   @digitalocean (2014-11 and 2015-01)
+
+-  648.68 // food          @61local
+-  460.00 // bar tab       @61local
+-  194.02 // tokens        @CuboNewYork521
+-  150.00 // entertainment @vinceallenvince
+-  130.11 // ticketing     @peatix
+-   70.19 // stickers      @diginate
+-   50.00 // venue         @61local
+-    5.43 // name tags     @amazon
+
+- 2471.57 // donation      @ScriptEdOrg
+
 )
