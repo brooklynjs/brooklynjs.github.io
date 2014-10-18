@@ -275,7 +275,7 @@
             To add yourself to this slot, change the following two lines
             and add a short description paragraph in the pull request.
           -->
-          <small>Listen to our third speaker,</small>
+          <small id="mrothemoji">:man::speech_balloon: :computer::art::chart_with_upwards_trend: with,</small>
           <div><a href="https://twitter.com/mroth">Matthew Rothenberg</a></div>
         </li>
         <li class="ride"></li>
@@ -318,5 +318,21 @@
     <footer>
       BrooklynJS expects all speakers and attendees<br>to follow the <a href="//jsconf.com/codeofconduct.html">JSConf code of conduct</a>.
     </footer>
+
+    <!--
+    this is to allow emoji glyphs to be used in the description for mroth's talk
+    in a compatible way.  it should be removed next month! (hey look, if I'm
+    going to talk about emoji...)
+    -->
+    <link href="vendor/js-emoji/emoji.css" rel="stylesheet" type="text/css" />
+    <script src="vendor/js-emoji/emoji.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      emoji.include_title = true;
+      emoji.img_path = "http://emojistatic.github.io/images/64/";
+      var mrothTalk = document.getElementById("mrothemoji");
+      var mrothTalkDesc = mrothTalk.innerHTML;
+      mrothTalk.innerHTML = emoji.replace_colons(mrothTalkDesc);
+    </script>
+
   </body>
 </html>
