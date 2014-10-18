@@ -42,3 +42,7 @@ img.emoji {
 	width: 1em;
 	height: 1em;
 }
+
+small.emoji {
+	font-size: 14px;
+}
