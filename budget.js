@@ -212,4 +212,21 @@ process.exit(
 
 - 2471.57 // donation      @ScriptEdOrg
 
+          // BrooklynJS #D, 2014-11-20T19:00Z at @61Local
+          // ANNIVERSARY SPECIAL: ART MEETS JAVASCRIPT
+          // featuring @jennschiffer, @mani_art, @mroth, @KirbySaysHi, and @jeresig
+          // with special musical guests, Zac Zinger, Tomoko Akaboshi, and Shu Odamura
+
++ 1980.00 // ticket sales  @peatix
++  500.00 // sponsorship   @barkbox
+
+-  648.68 // food & venue  @61local
+-  540.00 // bar tab       @61local
+-  258.69 // tokens        @CuboNewYork521
+-  150.00 // entertainment @ughnotontwitter
+-  150.00 // ticketing     @peatix
+-   19.58 // name tags     @amazon
+
+-  713.05 // donation      @ScriptEdOrg
+
 )
