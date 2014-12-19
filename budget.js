@@ -229,4 +229,19 @@ process.exit(
 
 -  713.05 // donation      @ScriptEdOrg
 
+          // BrooklynJS #E, 2014-12-18T19:00Z at @61Local
+          // featuring @youyuxi, @stefanpenner, @jschementi, @ZeeJab, and @aemkei
+          // with special musical guests, Zac Zinger, Yuto Kanazawa, and Yoshiki Yoshida
+
++ 1725.00 // ticket sales  @peatix
++  500.00 // sponsorship   @sefaira
+
+-  648.68 // food & venue  @61local
+-  700.00 // bar tab       @61local
+-  517.38 // tokens (+JAN) @CuboNewYork521
+-  150.00 // entertainment @ughnotontwitter
+-  150.00 // ticketing     @peatix
+
+-   58.94 // donation      @ScriptEdOrg
+
 )
