@@ -244,4 +244,20 @@ process.exit(
 
 -   58.94 // donation      @ScriptEdOrg
 
+          // BrooklynJS #F, 2015-01-15T19:00Z at @61Local
+          // featuring @annelibby, @hipsterbrown, @zertosh, @nolanlawson, and @meredithmmyers
+          // with special musical guest, @ajpiano
+
++ 1860.00 // ticket sales  @peatix
++  500.00 // sponsorship   @pivotal
++  500.00 // sponsorship   @dropbox
++  500.00 // sponsorship   @genius
+
+-  648.68 // food & venue  @61local
+-  500.00 // bar tab       @61local
+-  150.00 // entertainment @ajpiano
+-  150.00 // ticketing     @peatix
+-   15.00 // prototyping   @nycresistor
+- 1896.32 // donation      @ScriptEdOrg
+
 )
