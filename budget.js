@@ -267,7 +267,7 @@ process.exit(
 
 + 3050.00 // ticket sales  @peatix
 + 2500.00 // sponsorship   @digitalocean (6 months)
-+  500.00 // sponsorship   @scripto
++  500.00 // sponsorship   Scripto
 +  500.00 // sponsorship   @empirejs
 
 -  450.00 // bar tab       @61local
