@@ -288,6 +288,6 @@ process.exit(
 -  154.80 // lumber (3mos) Ocooch Hardwoods
 -  135.00 // lasering      @nycresistor
 
--  4189.36 // donation     @ScriptEdOrg
+- 4189.36 // donation      @ScriptEdOrg
 
 )
