@@ -261,4 +261,33 @@ process.exit(
 
 - 1896.32 // donation      @ScriptEdOrg
 
+          // BrooklynJS #17 #whiteoak, 2015-02-19T19:00Z at @61Local
+          // featuring @am3thyst, @rickyrobinett, @superandomness, @strzel_a, and @tinysubversions
+          // with special musical guest, Jess Ledbetter
+
++ 3050.00 // ticket sales  @peatix
++ 2500.00 // sponsorship   @digitalocean (6 months)
++  500.00 // sponsorship   @scripto
++  500.00 // sponsorship   @empirejs
+
+-  450.00 // bar tab       @61local
+-  750.35 // food & venue  @61local
+-  200.00 // ticketing     @peatix
+-  130.45 // TV/adapter   @amazon
+-   52.00 // stickers      @stickermule
+-   40.00 // entertainment
+-   14.53 // sharpies
+-   13.02 // name tags
+
+-  350.00 // plaques       @makemodeco
+-   52.49 // burlap bags   @amazon
+-    7.64 // glue          @amazon
+-    5.66 // sandpaper     @amazon
+-    4.70 // binder clips  @amazon
+
+-  154.80 // lumber (3mos) Ocooch Hardwoods
+-  135.00 // lasering      @nycresistor
+
+-  4189.36 // donation     @ScriptEdOrg
+
 )
