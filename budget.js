@@ -290,4 +290,21 @@ process.exit(
 
 - 4189.36 // donation      @ScriptEdOrg
 
+	  // BrooklynJS #18 #thoughtcedar, 2015-03-17T19:00Z at @61Local
+	  // featuring @alanmoo, @itsmisscs, @kandizzy, @noopkat, and @stijlist
+	  // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 2770.00 // ticket sales  @peatix
++  500.00 // sponsorship   @bocoup
++  500.00 // sponsorship   @genius
++  500.00 // sponsorship   @nonymous corporate donor
+
+-  410.00 // bar tab       @61local
+-  750.35 // food & venue  @61local
+-  200.00 // ticketing     @peatix
+-  150.00 // entertainment @jedschmidt
+-  150.00 // lasering      @nycresistor
+
+- 2609.65 // donation      @ScriptEdOrg
+
 )
