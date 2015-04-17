@@ -261,7 +261,7 @@ process.exit(
 
 - 1896.32 // donation      @ScriptEdOrg
 
-          // BrooklynJS #17 #whiteoak, 2015-02-19T19:00Z at @61Local
+          // BrooklynJS #16 #whiteoak, 2015-02-19T19:00Z at @61Local
           // featuring @am3thyst, @rickyrobinett, @superandomness, @strzel_a, and @tinysubversions
           // with special musical guest, Jess Ledbetter
 
@@ -290,7 +290,7 @@ process.exit(
 
 - 4189.36 // donation      @ScriptEdOrg
 
-          // BrooklynJS #18 #thoughtcedar, 2015-03-17T19:00Z at @61Local
+          // BrooklynJS #17 #thoughtcedar, 2015-03-17T19:00Z at @61Local
           // featuring @alanmoo, @itsmisscs, @kandizzy, @noopkat, and @stijlist
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
@@ -307,7 +307,7 @@ process.exit(
 
 - 2609.65 // donation      @ScriptEdOrg
 
-	  // BrooklynJS #19 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
+	  // BrooklynJS #18 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
 	  // featuring @modernserf, @jamessocol, @meyerini, @hypirlink, and @kilmc
 	  // with special musical guests, @helenhousandi and Adrián Sandí.
 
