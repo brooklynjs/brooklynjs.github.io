@@ -307,4 +307,24 @@ process.exit(
 
 - 2609.65 // donation      @ScriptEdOrg
 
+	  // BrooklynJS #19 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
+	  // featuring @modernserf @jamessocol @meyerini @hypirlink, and @kilmc
+	  // with special musical guests, @helenhousandi and Adrián Sandí.
+
++ 2490.00 // ticket sales  @peatix
++  500.00 // sponsorship   @autodesk
++  500.00 // sponsorship   @TheHackerati
+
+-  750.35 // food & venue  @61local
+-  350.00 // bar tab       @61local
+-  261.30 // card lasering Make Mode
+-  200.00 // ticketing     @peatix
+-  150.00 // entertainment @helenhousandi
+-   59.98 // cords/cables  Ace Hardware
+-   28.79 // wristbands    @ticket_printing
+-   70.66 // transport     @uber
+-   18.30 // shipping      @shyp
+
+- 1600.62 // donation      @ScriptEdOrg
+
 )
