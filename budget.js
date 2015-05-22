@@ -307,9 +307,9 @@ process.exit(
 
 - 2609.65 // donation      @ScriptEdOrg
 
-	  // BrooklynJS #18 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
-	  // featuring @modernserf, @jamessocol, @meyerini, @hypirlink, and @kilmc
-	  // with special musical guests, @helenhousandi and Adrián Sandí.
+          // BrooklynJS #18 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
+          // featuring @modernserf, @jamessocol, @meyerini, @hypirlink, and @kilmc
+          // with special musical guests, @helenhousandi and Adrián Sandí.
 
 + 2490.00 // ticket sales  @peatix
 +  500.00 // sponsorship   @autodesk
