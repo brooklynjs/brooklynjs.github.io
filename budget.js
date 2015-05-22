@@ -307,9 +307,9 @@ process.exit(
 
 - 2609.65 // donation      @ScriptEdOrg
 
-	  // BrooklynJS #18 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
-	  // featuring @modernserf, @jamessocol, @meyerini, @hypirlink, and @kilmc
-	  // with special musical guests, @helenhousandi and Adrián Sandí.
+          // BrooklynJS #18 #toothlesswalnut, 2015-04-16T19:00Z at @61Local
+          // featuring @modernserf, @jamessocol, @meyerini, @hypirlink, and @kilmc
+          // with special musical guests, @helenhousandi and Adrián Sandí.
 
 + 2490.00 // ticket sales  @peatix
 +  500.00 // sponsorship   @autodesk
@@ -327,4 +327,20 @@ process.exit(
 
 - 1600.62 // donation      @ScriptEdOrg
 
+          // BrooklynJS #19, 2015-05-21T19:00Z at @61Local
+          // SPECIAL QUEENSJS EDITION with @opheliasdaisies and @dcousineau
+          // featuring @ryah, @seejohncode, @nsylianteng, @ajdant, and @aq
+          // with special musical guests, Zac Zinger's KAI.
+
++ 1980.00 // ticket sales  @peatix
++  500.00 // sponsorship   @spotify
++  500.00 // sponsorship   @OscarHealth
+
+-  750.35 // food & venue  @61local
+-  380.00 // bar tab       @61local
+-  207.00 // coasters      @laughingowlpres
+-  200.00 // ticketing     @peatix
+-  300.00 // entertainment KAI (@queens_js twofer)
+
+- 1142.65 // donation      @ScriptEdOrg
 )
