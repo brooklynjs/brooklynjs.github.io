@@ -151,7 +151,7 @@
       }
     </style>
     <script>
-      var then = new Date(2015,4,21)
+      var then = new Date(2015,5,18)
 
       var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
       var months = 'January February March April May June July August September October November December'.split(' ')
@@ -172,7 +172,7 @@
         var weekday = days[then.getDay()]
         var month = months[then.getMonth()]
         var date = month + " " + suffixed(then.getDate())
-        document.write([weekday, date, "at 7pm"].join(", "))
+        document.write([weekday, date, "at 7:30pm"].join(", "))
       }
 
       function shortEventDate() {
@@ -215,7 +215,7 @@
         <li class="end stop">
           <time>now</time>
           <small>See the event board to</small>
-          <div><a href="http://brooklynjs19.peatix.com">Get your ticket</a> and <a href="http://brooklynjs19.peatix.com">tell your friends</a></div>
+          <div><a href="http://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/">Get your ticket</a> and <a href="http://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/">tell your friends</a></div>
         </li>
         <li class="ride"></li>
         <li class="stop">
@@ -229,87 +229,57 @@
         <li class="end stop">
           <time><script>shortEventDate()</script></time>
           <small>Make your way to our awesome venue,</small>
-          <div><a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a></div>
+          <div><a href="//61local.com">Littlefield NYC</a> on <a href="//www.google.com/maps?q=622+Degraw+St+11217">Degraw St.</a></div>
         </li>
-        <li class="ride"></li>
-        <li class="end stop">
-          <time></time>
-          <small>Maybe come early and geek out for some</small>
-          <div><a href="http://brooklynjs19.peatix.com">Boroughgramming</a></div>
-        </li>
-        <li class="walk">
-          <small>Open the gray door in back, and</small>
-          <div>Walk upstairs</div>
+        <li class='walk'>
+          <small>Pick up your tickets, and</small>
+          <div>Walk back to the stage</div>
         </li>
         <li class="end stop">
-          <time>7:00p</time>
+          <time>7:30p</time>
           <small>Grab a seat in time for</small>
           <div>Introduction and kickoff</div>
         </li>
         <li class="ride"></li>
         <li class="stop">
-          <small>Cleanse your palette with the jazz interludes of</small>
-          <div><a href="//www.zaczingermusic.com/">The Zac Zinger Trio</a></div>
+          <small>Enjoy some barbershop harmony from</small>
+          <div><a href="https://www.youtube.com/watch?v=llu-IG8zLkE&feature=youtu.be&t=17s">The Four Fives</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time><script>speakerTime()</script></time>
-          <!--
-            To add yourself to this slot, change the following two lines
-            and add a short description paragraph in the pull request.
-          -->
-          <small>Go start your engines, with v8worker and</small>
-          <div><a href="https://github.com/ry">Ryan Dahl</a></div>
-        </li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time><script>speakerTime()</script></time>
-          <!--
-            To add yourself to this slot, change the following two lines
-            and add a short description paragraph in the pull request.
-          -->
-          <small>Pay attention to Chrome extensions, like</small>
-          <div><a href="http://seejohncode.com/">John Crepezzi</a></div>
-        </li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time><script>speakerTime()</script></time>
-          <!--
-            To add yourself to this slot, change the following two lines
-            and add a short description paragraph in the pull request.
-          -->
-          <small>Go guerilla on the UX that affects you, as did</small>
-          <div><a href="https://twitter.com/nsylianteng">Nikki Sylianteng</a></div>
-        </li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time><script>speakerTime()</script></time>
-          <!--
-            To add yourself to this slot, change the following two lines
-            and add a short description paragraph in the pull request.
-          -->
-          <small>Take a tour or the layperson's sacred geometry, with</small>
-          <div><a href="https://twitter.com/ajdant">Alastair Dant</a></div>
-        </li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time><script>speakerTime()</script></time>
-          <!--
-            To add yourself to this slot, change the following two lines
-            and add a short description paragraph in the pull request.
-          -->
-          <small>Descend the Chromium Embedded rabbit hole, a la</small>
-          <div><a href="https://twitter.com/aq">Aaron Quint</a></div>
-        </li>
-        <li class="ride"></li>
-        <li class="stop">
           <time>8:00p</time>
+          <small>Join us for a</small>
+          <div>Special edutaining panel featuring</div>
+        </li>
+        <li class='ride'></li>
+        <li class='speaker'>
+          <small>Our first panelist</small>
+          <div><a href="https://twitter.com/chriscoyier">Chris Coyier</a></div>
+        </li>
+        <li class='ride'></li>
+        <li class='speaker'>
+          <small>Our second panelist</small>
+          <div>Announced Soon</div>
+        </li>
+        <li class='ride'></li>
+        <li class='speaker'>
+          <small>Our third panelist</small>
+          <div>Announced Soon</div>
+        </li>
+        <li class='ride'></li>
+        <li class='speaker'>
+          <small>Our fourth panelist</small>
+          <div>Announced Soon</div>
+        </li>
+        <li class="ride panel-bridge"></li>
+        <li class="stop">
+          <time>9:00p</time>
           <small>Wind down with the</small>
           <div>Wrap-up</div>
         </li>
         <li class="walk">
-          <small>Round-trip downstairs to the bar to get some</small>
-          <div>Local <a href="//www.beermenus.com/places/2237-61-local">craft beer</a> / soda</div>
+          <small>Move to the bar to get some</small>
+          <div>Wine / cocktails / beer / soda</div>
         </li>
         <li class="end stop">
           <time>12:00a</time>
