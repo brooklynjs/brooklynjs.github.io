@@ -356,7 +356,7 @@ process.exit(
 
 - 1550.00 // venue         @littlefieldnyc
 -  317.00 // bar tab       @littlefieldnyc
--  635.64 // food          @61local
+-  738.45 // food          @61local
 -  475.00 // popsicles     @peoplespops
 -   84.73 // pizza
 -  360.00 // karaoke rental
