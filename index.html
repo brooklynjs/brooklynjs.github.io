@@ -151,7 +151,7 @@
       }
     </style>
     <script>
-      var then = new Date(2015,5,18)
+      var then = new Date(2015,6,16)
 
       var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
       var months = 'January February March April May June July August September October November December'.split(' ')
@@ -172,7 +172,7 @@
         var weekday = days[then.getDay()]
         var month = months[then.getMonth()]
         var date = month + " " + suffixed(then.getDate())
-        document.write([weekday, date, "at 7:30pm"].join(", "))
+        document.write([weekday, date, "at 7pm"].join(", "))
       }
 
       function shortEventDate() {
@@ -181,7 +181,6 @@
 
       function timeLeft() {
         var now = new Date
-
         var n = 0 | (then - now) / 86400000
 
         document.write(
@@ -193,7 +192,6 @@
 
       function speakerTime() {
         speakerTime.i = -~speakerTime.i
-
         document.write("7:" + speakerTime.i + "0p")
       }
     </script>
@@ -215,7 +213,7 @@
         <li class="end stop">
           <time>now</time>
           <small>See the event board to</small>
-          <div><a href="http://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/">Get your ticket</a> and <a href="http://www.littlefieldnyc.com/event/852741-brooklynjs-20-brooklyn/">tell your friends</a></div>
+          <div><a href="https://ti.to/BrooklynJS/brooklynjs-21">Get your ticket</a> and <a href="https://ti.to/BrooklynJS/brooklynjs-21">tell your friends</a></div>
         </li>
         <li class="ride"></li>
         <li class="stop">
@@ -225,82 +223,91 @@
           <small>Nothing to do but</small>
           <div>Wait patiently</div>
         </li>
-        <li class='ride'></li>
-        <li class="stop">
-          <time>
-            <script>shortEventDate()</script>
-          </time>
-          <small>Join us all day at</small>
-          <div><a href='https://2015.cssconf.com/'>CSSConf</a></div>
-        </li>
-        <li class='ride'></li>
-        <li class="stop">
-          <time>
-            <script>shortEventDate()</script>
-          </time>
-          <small>Or come cowork with us at 61 Local's</small>
-          <div><a href='https://ti.to/BrooklynJS/boroughgramming-2015-06-18'>Boroughgramming</a></div>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time><script>shortEventDate()</script></time>
+          <small>Make your way to our awesome venue,</small>
+          <div><a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a></div>
         </li>
         <li class="ride"></li>
         <li class="end stop">
-          <time>7:00p</script></time>
-          <small>Make your way to our awesome venue,</small>
-          <div><a href="http://www.littlefieldnyc.com/">Littlefield NYC</a> on <a href="//www.google.com/maps?q=622+Degraw+St+11217">Degraw St.</a></div>
+          <time></time>
+          <small>Maybe come early and geek out for some</small>
+          <div><a href="http://brooklynjs19.peatix.com">Boroughgramming</a></div>
         </li>
-        <li class='walk'>
-          <small>Pick up your tickets, and</small>
-          <div>Walk back to the stage</div>
+        <li class="walk">
+          <small>Open the gray door in back, and</small>
+          <div>Walk upstairs</div>
         </li>
         <li class="end stop">
-          <time>7:30p</time>
+          <time>7:00p</time>
           <small>Grab a seat in time for</small>
           <div>Introduction and kickoff</div>
         </li>
         <li class="ride"></li>
-        <li class="stop">
-          <small>Enjoy some barbershop harmony from</small>
-          <div><a href="https://www.youtube.com/watch?v=llu-IG8zLkE&feature=youtu.be&t=17s">The Four Fives</a></div>
+        <li class="speaker">
+          <time><script>speakerTime()</script></time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our first speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR FIRST SPEAKER</a></div>
         </li>
         <li class="ride"></li>
         <li class="speaker">
-          <time>8:00p</time>
-          <small>Join us for a</small>
-          <div>Special edutaining panel featuring</div>
+          <time><script>speakerTime()</script></time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our second speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR SECOND SPEAKER</a></div>
         </li>
-        <li class='ride'></li>
-        <li class='speaker'>
-          <small>Our first panelist</small>
-          <div><a href="https://twitter.com/chriscoyier">Chris Coyier</a></div>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time><script>speakerTime()</script></time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our third speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR THIRD SPEAKER</a></div>
         </li>
-        <li class='ride'></li>
-        <li class='speaker'>
-          <small>Our second panelist</small>
-          <div><a href='https://twitter.com/itsmisscs'>Claudina Sarahe</a></div>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time><script>speakerTime()</script></time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our fourth speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR FOURTH SPEAKER</a></div>
         </li>
-        <li class='ride'></li>
-        <li class='speaker'>
-          <small>Our third panelist</small>
-          <div><a href='https://twitter.com/mando_amador'>Armando Amador</a></div>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time><script>speakerTime()</script></time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our fifth speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR FIFTH SPEAKER</a></div>
         </li>
-        <li class='ride'></li>
-        <li class='speaker'>
-          <small>Our fourth panelist</small>
-          <div><a href='https://twitter.com/jennschiffer'>Jenn Schiffer</a></div>
-        </li>
-        <li class="ride panel-bridge"></li>
+        <li class="ride"></li>
         <li class="stop">
-          <time>9:00p</time>
+          <time>8:00p</time>
           <small>Wind down with the</small>
           <div>Wrap-up</div>
         </li>
         <li class="walk">
-          <small>Move to the bar to get some</small>
-          <div>Wine / cocktails / beer / soda</div>
+          <small>Round-trip downstairs to the bar to get some</small>
+          <div>Local <a href="//www.beermenus.com/places/2237-61-local">craft beer</a> / soda</div>
         </li>
         <li class="end stop">
           <time>12:00a</time>
           <small>Geek out with your boroughmates during</small>
-          <div>The beer.js karaoke social hour(s)</div>
+          <div>The beer.js social hour(s)</div>
         </li>
       </ol>
     </article>
