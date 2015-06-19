@@ -343,4 +343,29 @@ process.exit(
 -  300.00 // entertainment KAI (@queens_js twofer)
 
 - 1142.65 // donation      @ScriptEdOrg
+
+          // BrooklynJS #20 2015-06-18T20:00Z at @littlefieldnyc
+          // featuring @jennschiffer, @mando_amador, @chriscoyier, and @itsmisscs
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 3160.00 // ticket sales  @ticketfly
++  164.77 // ticket sales  @useTito
++ 1000.00 // partnership   @bocoup
++  750.00 // sponsorship   @NamelyHR
++  500.00 // sponsorship   @digitalocean
+
+- 1550.00 // venue         @littlefieldnyc
+-  317.00 // bar tab       @littlefieldnyc
+-  635.64 // food          @61local
+-  475.00 // popsicles     @peoplespops
+-   84.73 // pizza
+-  360.00 // karaoke rental
+-  150.00 // entertainment @jedschmidt
+-  170.00 // stickers      @stickermule
+-  647.80 // card lasering @makemodeco
+-  100.00 // chairs        @nwc
+-  119.08 // props         @lukeschantz
+-  280.07 // transport     @uber
+
+-  582.64 // donation      @ScriptEdOrg
 )
