@@ -15,6 +15,6 @@ This repository serves two primary purposes:
 
 1. For accounting purposes, [budget.js](budget.js) contains an exhaustive historical log of all funds raised. All proceeds are donated to worthwhile charities, notably including [ScriptEd](https://www.scripted.org/).
 
-Brooklyn is obviously cooler, but nonetheless, you might also be interested in [QueensJS](http://www.meetup.com/QueensJS/) and [ManhattanJS](http://manhattanjs.com/).
+Brooklyn is obviously cooler, but nonetheless, you might also be interested in [QueensJS](http://www.meetup.com/QueensJS/), [ManhattanJS](http://manhattanjs.com/), and [JerseyScript](http://jerseyscript.github.io/).
 
 Hope to see you next time!
