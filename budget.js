@@ -368,4 +368,21 @@ process.exit(
 -  280.07 // transport     @uber
 
 -  582.64 // donation      @ScriptEdOrg
+
+          // BrooklynJS #21 2015-06-18T19:00Z at @61Local
+          // featuring @Rich_Harris @vijithassar @rememberlenny @superSGP and @ftrain
+          // with special musical guest @radiomorillo
+
++ 1813.25 // ticket sales  @useTito
++  500.00 // sponsorship   @classpass
++  500.00 // sponsorship   @NewYorker
+
+-  750.35 // food & venue  @61local
+-  308.12 // bar tab       @61local
+-  314.65 // card lasering @makemodeco
+-  150.00 // entertainment @radiomorillo
+-  270.52 // ticketing     @useTito
+
+- 1019.61 // donation      @ScriptEdOrg
+
 )
