@@ -5,7 +5,7 @@ BrooklynJS
 
 ![logo](logo/logo.png)
 
-[BrooklynJS](brooklynjs.com) is a monthly meeting of JavaScript developers which happens on the third Thursday of each month in the upstairs event space at [61 Local](http://www.61local.com/), a restaurant and bar in Cobble Hill, Brooklyn. Each month, a handful of presenters give short talks about cool technology projects, and there's usually also a musical guest performing in between.
+[BrooklynJS](http://brooklynjs.com) is a monthly meeting of JavaScript developers which happens on the third Thursday of each month in the upstairs event space at [61 Local](http://www.61local.com/), a restaurant and bar in Cobble Hill, Brooklyn. Each month, a handful of presenters give short talks about cool technology projects, and there's usually also a musical guest performing in between.
 
 Tickets cost $15 and are released in two batches, both on Fridays at 10am one and two weeks before the event. They usually sell out very quickly. [Follow @brooklyn_js on Twitter](http://twitter.com/brooklyn_js) for timely notifications about tickets, amid other blatherings.
 
