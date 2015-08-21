@@ -369,8 +369,8 @@ process.exit(
 
 -  582.64 // donation      @ScriptEdOrg
 
-          // BrooklynJS #21 2015-06-18T19:00Z at @61Local
-          // featuring @Rich_Harris @vijithassar @rememberlenny @superSGP and @ftrain
+          // BrooklynJS #21 2015-07-16T19:00Z at @61Local
+          // featuring @Rich_Harris, @vijithassar, @rememberlenny, @superSGP, and @ftrain
           // with special musical guest @radiomorillo
 
 + 1813.25 // ticket sales  @useTito
