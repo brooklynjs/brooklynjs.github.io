@@ -385,4 +385,20 @@ process.exit(
 
 - 1019.61 // donation      @ScriptEdOrg
 
+          // BrooklynJS #22 2015-08-20T19:00Z at @61Local
+          // featuring @jlukic, @hipsterbrown, @copasetickid, @hichaelmart, and @sranso
+          // with special musical guest @mani_art
+
++ 2130.00 // ticket sales  @useTito
++ 2500.00 // sponsorship   @digitalocean
++  500.00 // sponsorship   @oscarhealth
++  500.00 // sponsorship   @transloadit
+
+-  750.35 // food & venue  @61local
+-  310.00 // bar tab       @61local
+-  314.65 // card lasering @makemodeco
+-  150.00 // entertainment @mani_art
+-  227.16 // ticketing     @useTito
+
+- 3877.84 // donation      @ScriptEdOrg
 )
