@@ -1,102 +1,102 @@
-- name: 10up
+- name: "10up"
   twitter: 10up
 
-- name: Autodesk
+- name: "Autodesk"
   twitter: autodesk
 
-- name: BarkBox
+- name: "BarkBox"
   twitter: barkbox
 
-- name: Bloomberg
+- name: "Bloomberg"
   twitter: bloomberg
 
-- name: Bocoup
+- name: "Bocoup"
   twitter: bocoup
 
-- name: Chartbeat
+- name: "Chartbeat"
   twitter: chartbeat
 
-- name: Classpass
+- name: "Classpass"
   twitter: classpass
 
-- name: Crush & Lovely
+- name: "Crush & Lovely"
   twitter: crushlovely
 
-- name: Digital Ocean
+- name: "Digital Ocean"
   twitter: digitalocean
 
-- name: Dropbox
+- name: "Dropbox"
   twitter: dropbox
 
-- name: EmpireJS
+- name: "EmpireJS"
   twitter: empirejs
 
-- name: Etsy
+- name: "Etsy"
   twitter: etsy
 
-- name: FiveThirtyEight
+- name: "FiveThirtyEight"
   twitter: fivethirtyeight
 
-- name: Genius
+- name: "Genius"
   twitter: genius
 
-- name: Github
+- name: "Github"
   twitter: github
 
-- name: Harvest
+- name: "Harvest"
   twitter: harvest
 
-- name: Hugeinc
+- name: "Hugeinc"
   twitter: hugeinc
 
-- name: Jibe
+- name: "Jibe"
   twitter: jibe
 
-- name: Namely
-  twitter: namelyhr
+- name: "Namely"
+  twitter: namely"hr"
 
-- name: The New Yorker
+- name: "The New Yorker"
   twitter: newyorker
 
-- name: Nodejitsu
+- name: "Nodejitsu"
   twitter: nodejitsu
 
-- name: NYT Developers
+- name: "NYT Developers"
   twitter: nytdevs
 
-- name: Oscar Health
+- name: "Oscar Health"
   twitter: oscarhealth
 
-- name: Pivotal
+- name: "Pivotal"
   twitter: pivotal
 
-- name: Mic
+- name: "Mic"
   twitter: policymic
 
-- name: Sefaira
+- name: "Sefaira"
   twitter: sefaira
 
-- name: SFX Entertainment
+- name: "SFX Entertainment"
   twitter: sfxii
 
-- name: Spotify
+- name: "Spotify"
   twitter: spotify
 
-- name: The Hackerati
+- name: "The Hackerati"
   twitter: thehackerati
 
-- name: Transloadit
+- name: "Transloadit"
   twitter: transloadit
 
-- name: Tumblr Engineering
+- name: "Tumblr Engineering"
   twitter: tumblreng
 
-- name: Twilio
+- name: "Twilio"
   twitter: twilio
 
-- name: Yuzu
+- name: "Yuzu"
   twitter: yuzubn
 
-- name: Scripto
+- name: "Scripto"
   twitter: scripto
 
