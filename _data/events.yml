@@ -7,12 +7,14 @@
 - id: 2
   date: 2013-12-16T19:00Z
   venue: 61 Local
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   sponsors:
   - crushlovely
 
 - id: 3
   date: 2014-01-22T19:00Z
   venue: 61 Local
+  musical_guest: "@csvsoundsystem"
   sponsors:
   - nodejitsu
   - digitalocean
@@ -21,6 +23,7 @@
 - id: 4
   date: 2014-02-20T19:00Z
   venue: 61 Local
+  musical_guest: "@thlorenz"
   sponsors:
   - etsy
   - hugeinc
@@ -29,6 +32,7 @@
 - id: 5
   date: 2014-03-20T19:00Z
   venue: 61 Local
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   sponsors:
   - digitalocean
   - tumblreng
@@ -37,6 +41,7 @@
 - id: 6
   date: 2014-04-17T19:00Z
   venue: 61 Local
+  musical_guest: "bathtub jen and the henchmen"
   sponsors:
   - spotify
   - twilio
@@ -45,6 +50,7 @@
 - id: 7
   date: 2014-05-15T19:00Z
   venue: 61 Local
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   sponsors:
   - hugeinc
   - PolicyMic
@@ -52,6 +58,7 @@
 
 - id: 8
   date: 2014-06-19T19:00Z
+  musical_guest: "@balthropalabama"
   venue: 61 Local
   sponsors:
   - digitalocean
@@ -60,6 +67,7 @@
 - id: 9
   date: 2014-07-17T19:00Z
   venue: 61 Local
+  musical_guest: "the Brooklyn Accordion Club quartet"
   sponsors:
   - nytdevs
   - bloomberg
@@ -68,6 +76,7 @@
 - id: 10
   date: 2014-08-21T19:00Z
   venue: 61 Local
+  musical_guest: "@ajpiano and @jennschiffer karaoke"
   sponsors:
   - digitalocean
   - bocoup
@@ -75,6 +84,7 @@
 
 - id: 11
   date: 2014-09-18T19:00Z
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   venue: 61 Local
   sponsors:
   - digitalocean
@@ -82,6 +92,7 @@
 
 - id: 12
   date: 2014-10-16T19:00Z
+  musical_guest: "@vinceallenvince on slide guitar"
   venue: 61 Local
   sponsors:
   - twilio
@@ -90,6 +101,7 @@
 - id: 13
   date: 2014-11-20T19:00Z
   venue: 61 Local
+  musical_guest: "Zac Zinger, Tomoko Akaboshi, and Shu Odamura"
   sponsors:
   - digitalocean
   - twilio
@@ -98,6 +110,7 @@
 - id: 14
   date: 2014-12-18T19:00Z
   venue: 61 Local
+  musical_guest: "Zac Zinger, Yuto Kanazawa, and Yoshiki Yoshida"
   sponsors:
   - digitalocean
   - twilio
@@ -106,6 +119,7 @@
 - id: 15
   date: 2015-01-15T19:00Z
   venue: 61 Local
+  musical_guest: "@ajpiano"
   sponsors:
   - dropbox
   - pivotal
@@ -114,6 +128,7 @@
 - id: 16
   date: 2015-02-19T19:00Z
   venue: 61 Local
+  musical_guest: "Jess Ledbetter"
   sponsors:
   - digitalocean
   - empirejs
@@ -122,6 +137,7 @@
 - id: 17
   date: 2015-03-17T19:00Z
   venue: 61 Local
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   sponsors:
   - digitalocean
   - genius
@@ -130,6 +146,7 @@
 - id: 18
   date: 2015-04-16T19:00Z
   venue: 61 Local
+  musical_guest: "@helenhousandi and Adrián Sandí."
   sponsors:
   - digitalocean
   - thehackerati
@@ -138,6 +155,7 @@
 - id: 19
   date: 2015-05-21T19:00Z
   venue: 61 Local
+  musical_guest: "Zac Zinger's KAI."
   sponsors:
   - digitalocean
   - spotify
@@ -146,6 +164,7 @@
 - id: 20
   date: 2015-06-18T20:00Z
   venue: Littlefield
+  musical_guest: "@jedschmidt's barbershop quartet, the four fives"
   sponsors:
   - digitalocean
   - namelyhr
@@ -154,6 +173,7 @@
 - id: 21
   date: 2015-07-16T19:00Z
   venue: 61 Local
+  musical_guest: "@radiomorillo"
   sponsors:
   - digitalocean
   - classpass
@@ -162,6 +182,7 @@
 - id: 22
   date: 2015-08-20T19:00Z
   venue: 61 Local
+  musical_guest: "@mani_art"
   sponsors:
   - digitalocean
   - oscarhealth

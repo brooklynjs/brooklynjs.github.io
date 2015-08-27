@@ -1,0 +1,32 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>BrooklynJS</title>
+  </head>
+
+  <body>
+    <ul>
+    {% for event in site.data.events %}
+      {% assign venue = site.data.venues | where:"name",event.venue | first %}
+      {% assign talks = site.talks | where:"event",event.id %}
+
+      <li>
+        BrooklynJS #{{event.id}}<br>
+        {{event.date | date: "%B %-d, %Y"}} at <a href="{{venue.url}}">{{venue.name}}</a>
+        <ul>
+        {% for talk in talks %}
+          <li>{{ talk.title }} <a href="https://twitter.com/{{talk.speaker.twitter}}">{{ talk.speaker.name }}</a></li>
+        {% endfor %}
+        </ul>
+        sponsors: {{event.sponsors | join:" | "}}<br>
+        {% if event.musical_guest %}music by: {{event.musical_guest}}{% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  </body>
+</html>
