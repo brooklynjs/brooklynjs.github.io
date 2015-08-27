@@ -1,0 +1,174 @@
+- id: 1
+  date: 2013-11-14T19:00Z
+  venue: 61 Local
+  sponsors:
+  - github
+
+- id: 2
+  date: 2013-12-16T19:00Z
+  venue: 61 Local
+  sponsors:
+  - crushlovely
+
+- id: 3
+  date: 2014-01-22T19:00Z
+  venue: 61 Local
+  sponsors:
+  - nodejitsu
+  - digitalocean
+  - harvest
+
+- id: 4
+  date: 2014-02-20T19:00Z
+  venue: 61 Local
+  sponsors:
+  - etsy
+  - hugeinc
+  - bocoup
+
+- id: 5
+  date: 2014-03-20T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - tumblreng
+  - sfxii
+
+- id: 6
+  date: 2014-04-17T19:00Z
+  venue: 61 Local
+  sponsors:
+  - spotify
+  - twilio
+  - chartbeat
+
+- id: 7
+  date: 2014-05-15T19:00Z
+  venue: 61 Local
+  sponsors:
+  - hugeinc
+  - PolicyMic
+  - YuzuBN
+
+- id: 8
+  date: 2014-06-19T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - fivethirtyeight
+
+- id: 9
+  date: 2014-07-17T19:00Z
+  venue: 61 Local
+  sponsors:
+  - nytdevs
+  - bloomberg
+  - EmpireJS
+
+- id: 10
+  date: 2014-08-21T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - bocoup
+  - 10up
+
+- id: 11
+  date: 2014-09-18T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - jibe
+
+- id: 12
+  date: 2014-10-16T19:00Z
+  venue: 61 Local
+  sponsors:
+  - twilio
+  - NewYorker
+
+- id: 13
+  date: 2014-11-20T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - twilio
+  - barkbox
+
+- id: 14
+  date: 2014-12-18T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - twilio
+  - sefaira
+
+- id: 15
+  date: 2015-01-15T19:00Z
+  venue: 61 Local
+  sponsors:
+  - dropbox
+  - pivotal
+  - genius
+
+- id: 16
+  date: 2015-02-19T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - empirejs
+  - scripto
+
+- id: 17
+  date: 2015-03-17T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - genius
+  - bocoup
+
+- id: 18
+  date: 2015-04-16T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - thehackerati
+  - autodesk
+
+- id: 19
+  date: 2015-05-21T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - spotify
+  - oscarhealth
+
+- id: 20
+  date: 2015-06-18T20:00Z
+  venue: Littlefield
+  sponsors:
+  - digitalocean
+  - namelyhr
+  - bocoup
+
+- id: 21
+  date: 2015-07-16T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - classpass
+  - newyorker
+
+- id: 22
+  date: 2015-08-20T19:00Z
+  venue: 61 Local
+  sponsors:
+  - digitalocean
+  - oscarhealth
+  - transloadit
+
+- id: 23
+  date: 2015-09-17T19:00Z
+  venue: 61 Local
+  sponsors:
+
