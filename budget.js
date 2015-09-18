@@ -401,4 +401,23 @@ process.exit(
 -  227.16 // ticketing     @useTito
 
 - 3877.84 // donation      @ScriptEdOrg
+
+          // BrooklynJS #23 2015-09-17T19:00Z at @61Local
+          // featuring 
+          // with special musical guest KAI
+
++ 1803.97 // ticket sales  @useTito
++  500.00 // sponsorship   @asana
++  500.00 // sponsorship   @blockchain
+
+-  750.35 // food & venue  @61local
+-  240.00 // bar tab       @61local
+-  216.66 // card lasering @makemodeco
+-  161.03 // ticketing     @useTito
+-  150.00 // entertainment KAI
+-  150.00 // travel costs
+-   48.00 // card wood
+
+- 1087.93 // donation      @ScriptEdOrg
+
 )
