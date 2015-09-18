@@ -403,7 +403,7 @@ process.exit(
 - 3877.84 // donation      @ScriptEdOrg
 
           // BrooklynJS #23 2015-09-17T19:00Z at @61Local
-          // featuring 
+          // featuring @linclark, @boucher, @renrutnnej, @ericandrewlewis, and @jennschiffer
           // with special musical guest KAI
 
 + 1803.97 // ticket sales  @useTito
