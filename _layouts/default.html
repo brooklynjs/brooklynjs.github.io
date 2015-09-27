@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>BrooklynJS | The world's most popular programming language, in New York's most popular borough</title>
+    <meta name="description" content="BrooklynJS | a JavaScript meetup for New York's favorite borough">
+    <meta name="viewport" content="width=device-width">
+    <style>
+      body {
+        padding: 0;
+        background: #222;
+        color: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-weight: 300;
+        font-size: 125%;
+        letter-spacing: .015em;
+      }
+
+      footer {
+        text-align: center;
+        font-size: .7em;
+        width: 500px;
+        margin: 50px auto;
+      }
+
+      header {
+        width: 500px;
+        margin: 20px auto;
+        background: #222;
+        font-weight: bold;
+        font-size: 72px;
+        text-align: left;
+        border-top: 4px solid #fff;
+        line-height: 68px;
+        position: relative;
+      }
+
+      header span {
+        position: absolute;
+        top: 7px;
+        height: 72px;
+        width: 72px;
+        border-radius: 50%;
+        line-height: 72px;
+        font-size: 60px;
+        text-align: center;
+        background: #f7df1e;
+        color: #222;
+      }
+
+      header .j {
+        right: 80px;
+      }
+
+      header .s {
+        right: 0;
+      }
+
+      article {
+        width: 500px;
+        margin: 20px auto;
+      }
+
+      article p {
+        border: 1px solid #fff;
+        margin: 60px 0;
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+      }
+
+      ol {
+        list-style-type: none;
+        list-style-position: inside;
+        text-align: left;
+        margin: 0 auto;
+        padding: 0 0 0 90px;
+      }
+
+      time {
+        color: #999;
+        position: absolute;
+        font-size: 16px;
+        left: -125px;
+        top: 20px;
+        width: 100px;
+        text-align: right;
+      }
+
+      .stop {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .stop:before {
+        content: "";
+        width: 12px;
+        height: 12px;
+        position: absolute;
+        background-color: #222;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        display: block;
+        left: -9px;
+        top: 22px;
+      }
+
+      .end.stop:before {
+        background-color: #fff;
+      }
+
+      .walk {
+        border-left: 8px dotted #666;
+        margin: -12px 0 -25px -4px;
+        padding: 30px 0 40px 26px;
+      }
+
+      .ride {
+        border-left: 8px solid #f7df1e;
+        margin: -17px 0 -25px -4px;
+        height: 60px;
+      }
+
+      .speaker {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .speaker:before {
+        content: "";
+        width: 8px;
+        height: 8px;
+        position: absolute;
+        background-color: #f7df1e;
+        display: block;
+        left: 2px;
+        top: 25px;
+      }
+
+      small {
+        font-size: 16px;
+        color: #999;
+        display: block;
+      }
+
+      a {
+        color: #ddd;
+        text-decoration: none;
+        border-bottom: 1px dotted;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      Brooklyn
+      <span class="j">J</span>
+      <span class="s">S</span>
+    </header>
+
+    {{ content }}
+
+    <footer>
+      BrooklynJS expects all speakers and attendees<br>to follow the <a href="//jsconf.com/codeofconduct.html">JSConf code of conduct</a>.
+    </footer>
+
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+     ga('create', 'UA-66830517-1', 'auto');
+     ga('send', 'pageview');
+
+    </script>
+
+  </body>
+</html>

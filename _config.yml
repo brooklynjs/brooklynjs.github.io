@@ -3,3 +3,10 @@ markdown: kramdown
 collections:
 - talks
 - events
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
