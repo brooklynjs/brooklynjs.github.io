@@ -12,7 +12,6 @@
         color: #fff;
         font-family: "Helvetica Neue", Helvetica, sans-serif;
         font-weight: 300;
-        font-size: 125%;
         letter-spacing: .015em;
       }
 
@@ -61,22 +60,6 @@
         margin: 20px auto;
       }
 
-      article p {
-        border: 1px solid #fff;
-        margin: 60px 0;
-        font-weight: bold;
-        padding: 20px;
-        text-align: center;
-      }
-
-      ol {
-        list-style-type: none;
-        list-style-position: inside;
-        text-align: left;
-        margin: 0 auto;
-        padding: 0 0 0 90px;
-      }
-
       time {
         color: #999;
         position: absolute;
@@ -121,6 +104,14 @@
         height: 60px;
       }
 
+      .sign {
+        border: 1px solid #fff;
+        margin: 60px 0;
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+      }
+
       .speaker {
         position: relative;
         padding-left: 30px;
@@ -151,11 +142,13 @@
     </style>
   </head>
   <body>
-    <header>
-      Brooklyn
-      <span class="j">J</span>
-      <span class="s">S</span>
-    </header>
+    <a href="/">
+      <header>
+        Brooklyn
+        <span class="j">J</span>
+        <span class="s">S</span>
+      </header>
+    </a>
 
     {{ content }}
 

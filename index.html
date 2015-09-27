@@ -1,7 +1,21 @@
 ---
 ---
 
-<article>
+<style>
+  body {
+    font-size: 125%;
+  }
+
+  ol {
+    list-style-type: none;
+    list-style-position: inside;
+    text-align: left;
+    margin: 0 auto;
+    padding: 0 0 0 90px;
+  }
+</style>
+
+<article class="homepage">
   <ol>
   {% for event in site.data.events %}
     {% assign venue = site.data.venues | where:"name",event.venue | first %}
@@ -35,7 +49,7 @@
   {% endfor %}
   </ol>
 
-  <p>
+  <p class="sign">
     PLANNED DISRUPTION<br>
     <script>longEventDate()</script><br><br>
     Please follow the directions below.
@@ -124,6 +138,11 @@
       -->
       <small>Listen to our fifth speaker, or better yet</small>
       <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR FIFTH SPEAKER</a></div>
+    </li>
+    <li class="ride"></li>
+    <li class="stop">
+      <small>This event made possible by</small>
+      <div>digital ocean. <a href="/sponsorship">Be our next sponsor.</a></div>
     </li>
     <li class="ride"></li>
     <li class="stop">
