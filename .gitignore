@@ -14,3 +14,7 @@ results
 npm-debug.log
 node_modules
 _site
+
+.ruby-version
+Gemfile
+Gemfile.lock
