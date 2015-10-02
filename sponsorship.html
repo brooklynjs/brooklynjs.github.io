@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>BrooklynJS | The world's most popular programming language, in New York's most popular borough</title>
+    <meta name="description" content="BrooklynJS | a JavaScript meetup for New York's favorite borough">
+    <meta name="viewport" content="width=device-width">
+    <style>
+      body {
+        padding: 0;
+        background: #222;
+        color: #fff;
+        font-family: "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 110%;
+        font-weight: 300;
+        letter-spacing: .015em;
+      }
+
+      footer {
+        text-align: center;
+        font-size: .7em;
+        width: 500px;
+        margin: 50px auto;
+      }
+
+      header {
+        width: 500px;
+        margin: 20px auto;
+        background: #222;
+        font-weight: bold;
+        font-size: 72px;
+        text-align: left;
+        border-top: 4px solid #fff;
+        line-height: 68px;
+        position: relative;
+      }
+
+      header span {
+        position: absolute;
+        top: 7px;
+        height: 72px;
+        width: 72px;
+        border-radius: 50%;
+        line-height: 72px;
+        font-size: 60px;
+        text-align: center;
+        background: #f7df1e;
+        color: #222;
+      }
+
+      header .j {
+        right: 80px;
+      }
+
+      header .s {
+        right: 0;
+      }
+
+      img {
+        margin: 15px 0;
+        width: 100%;
+      }
+
+      article {
+        margin: 20px auto;
+      }
+
+      time {
+        color: #999;
+        position: absolute;
+        font-size: 16px;
+        left: -125px;
+        top: 20px;
+        width: 100px;
+        text-align: right;
+      }
+
+      .stop {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .stop:before {
+        content: "";
+        width: 12px;
+        height: 12px;
+        position: absolute;
+        background-color: #222;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        display: block;
+        left: -9px;
+        top: 22px;
+      }
+
+      .end.stop:before {
+        background-color: #fff;
+      }
+
+      .walk {
+        border-left: 8px dotted #666;
+        margin: -12px 0 -25px -4px;
+        padding: 30px 0 40px 26px;
+      }
+
+      .ride {
+        border-left: 8px solid #f7df1e;
+        margin: -17px 0 -25px -4px;
+        height: 60px;
+      }
+
+      .sign {
+        border: 1px solid #fff;
+        margin: 60px 0;
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+      }
+
+      .speaker {
+        position: relative;
+        padding-left: 30px;
+      }
+
+      .speaker:before {
+        content: "";
+        width: 8px;
+        height: 8px;
+        position: absolute;
+        background-color: #f7df1e;
+        display: block;
+        left: 2px;
+        top: 25px;
+      }
+
+      small {
+        font-size: 16px;
+        color: #999;
+        display: block;
+      }
+
+      a {
+        color: #ddd;
+        text-decoration: none;
+        border-bottom: 1px dotted;
+      }
+
+      .page-title {
+        padding: 20px 0 10px;
+        text-align: center;
+      }
+
+      .sponsorship {
+        min-width: 350px;
+        max-width: 650px;
+      }
+
+      .sponsorship-pricing {
+        padding-left: 0;
+      }
+
+      .sponsorship-pricing li {
+        display: inline-block;
+        text-align: center;
+        width: 32%;
+      }
+
+      .sponsorship-pricing small {
+        padding: 3px 0;
+      }
+
+      .sponsorship-pricing strong {
+        font-size: 200%;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="index.html">
+      <header>
+        Brooklyn
+        <span class="j">J</span>
+        <span class="s">S</span>
+      </header>
+    </a>
+
+    <article class="sponsorship">
+      <h1 class="page-title">Sponsoring Our Events</h1>
+
+      <img src="assets/images/digitalocean.jpg"  />
+
+      <h3>About</h3>
+
+      <p>On the third Thursday of every month, the local JavaScript community gets together for a day to hang out and talk shop.</p>
+
+      <p>The main event is BrooklynJS, which starts at 7pm and includes community-curated lightning talks with musical interludes. Admission is $15 and comes with a custom commemorative laser engraved token of the event, which can optionally be redeemed for a craft beer, wine, or soda</p>
+
+      <p>BrooklynJS is organized by <a href="https://twitter.com/jedschmidt">Jed Schmidt</a>, <a href="https://twitter.com/brianloveswords">Brian Brennan</a>, <a href="https://twitter.com/willmanduffy">Will Duffy</a>, and <a href="https://twitter.com/kosamari">Mariko Kosaka</a>.</p>
+
+      <h3>Sponsorship Packages</h3>
+
+      <ul class="sponsorship-pricing">
+        <li>
+          <small>1 month</small>
+          <strong>$500</strong>
+          <small>Full Price</small>
+        </li>
+        <li>
+          <small>3 months</small>
+          <strong>$1,350</strong>
+          <small>Save 10%</small>
+        </li>
+        <li>
+          <small>6 months</small>
+          <strong>$2,500</strong>
+          <small>Save 20%</small>
+        </li>
+      </ul>
+
+      During the event, sponsors have a chance to talk to attendees in a casual setting. Here are some other things you get with your sponsorship:
+
+      <ul >
+        <li>
+          <b>Stage time:</b>
+          Two of stage time to talk about your company.
+        </li>
+        <li>
+          <b>Free tickets:</b>
+          2 tickets for engineers at your company.
+        </li>
+        <li>
+          <b>Swag and merch:</b>
+          We have a table setup right by check-in for you to lay down some swag and mingle with our attendees.
+        </li>
+        <li>
+          <b>Branding:</b>
+          We'll tweet about you the week of the event. Let us know what you want us to tell folks about! We'll also list you on brooklynjs.com
+        </li>
+      </ul>
+
+      <img src="assets/images/namely.jpg"  />
+
+      <h3>Frequently Asked Questions</h3>
+
+      <strong>How do I buy a sponsorship ticket?</strong>
+
+      <p>You can purchase sponorship tickets through our normal ticketing page. We encourage all potential sponsors to reach out before buying their tickets so we can ensure that sponorship is the best fit for all parties involved. You can do so by sending an email to <a href="mailto:will@brooklynjs.com.">will@brookynjs.com</a>.</p>
+
+      <strong>Will we get to talk to the attendees?</strong>
+
+      <p>All sponsors are given a 2 minute segment in our intro to talk to attendees. If you would like customized slides during so please provide them before the day of the event. Otherwise, we'll have your logo included in our slides for you to talk in front of.</p>
+
+      <p>We also encourage all sponsors to hang around after the talks for Bevera.js to talk to attendees.</p>
+
+      <p>In addition to this, we will send a tweet out the week of the event to highlight an event or webpage of your choosing.</p>
+
+      <strong>Where does the sponsorship money go?</strong>
+
+      <p>After every meetup we donate all remaining money to amazing organizations that share our values, like <a href="https://scripted.org/">ScriptEd</a>. Our budget is entirely transparent and can all be found on our <a href="https://github.com/brooklynjs/brooklynjs.github.io/blob/master/budget.js">Github repository's budget file</a>.</p>
+
+      <strong>Can we have a speaker the same month that we sponsor?</strong>
+
+      <p>BrooklynJS has a longstanding policy of not selecting speakers the same month that their company sponsors us. We do however encourage you to open up a pull request anyway for a talk submission and we'll keep you in the running for the next month!</p>
+
+      <strong>How many other sponsors will there be?</strong>
+
+      <p>Each month we have three sponsors, all of who are given equal branding at our events. There are no tiered sponsorship packages.</p>
+
+      <strong>There are no sponsorships left this month. Can we sponsor next month?</strong>
+
+      <p>Yes! Send an email to <a href="mailto:will@brooklynjs.com.">will@brookynjs.com</a> and we'll be happy to get you setup for the next available month.</p>
+
+      <h3>Contact Us</h3>
+
+      <p>If you're interested in sponsoring BrooklynJS reach out to <a href="mailto:will@brooklynjs.com">will@brooklynjs.com</a> and we'll be happy to help you out.</p>
+    </article>
+
+    <footer>
+      BrooklynJS expects all speakers and attendees<br>to follow the <a href="//jsconf.com/codeofconduct.html">JSConf code of conduct</a>.
+    </footer>
+
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+     ga('create', 'UA-66830517-1', 'auto');
+     ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
