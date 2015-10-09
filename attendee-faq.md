@@ -35,6 +35,11 @@ unfortunately we are already packing people in as tight as we can
 and we just don't have physical space to accommodate any more
 attendees above what we're selling now.
 
+Aside from making sure you're online when tickets get released, the
+easiest way to secure a ticket is to submit a talk! Even if your talk
+isn't selected for the month, you'll get first dibs on tickets before
+general release.
+
 If you're unable to get a ticket you are still welcome to come hang
 out with us downstairs after the talks for the bevera.js portion of
 the evening.
