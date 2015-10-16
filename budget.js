@@ -432,6 +432,8 @@ process.exit(
 -  110.00 // bar tab       @61local
 -  159.00 // ticketing     @useTito
 -  150.00 // entertainment @tootsweetmusic
+-   14.09 // stamps        @target
+-   11.95 // name tags     @target
 
 -    0.00 // donation      @ScriptEdOrg
 
