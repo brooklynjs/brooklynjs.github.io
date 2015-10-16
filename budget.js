@@ -416,8 +416,27 @@ process.exit(
 -  161.03 // ticketing     @useTito
 -  150.00 // entertainment KAI
 -  150.00 // travel costs
--   48.00 // card wood
+-   48.00 // card wood     Ocooch Hardwoods
 
 - 1087.93 // donation      @ScriptEdOrg
+
+          // BrooklynJS #24 2015-10-15T19:00Z at @61Local
+          // featuring @_akievet, @aaronmoodie, @mrspeaker, @janecakemaster, and @whale_eat_squid
+          // with special musical guest Mary Spencer Knapp of Toot Sweet
+
++ 1935.00 // ticket sales  @useTito
++  500.00 // sponsorship   @mozilla
++  500.00 // sponsorship   @adfin
+
+-  750.35 // food & venue  @61local
+-  110.00 // bar tab       @61local
+-  159.00 // ticketing     @useTito
+-  150.00 // entertainment @tootsweetmusic
+-  151.80 // card wood     Ocooch Hardwoods (3 months)
+-  550.44 // card lasering @makemode (3 months)
+-   14.09 // stamps        @target
+-   11.95 // name tags     @target
+
+- 1037.37 // donation      @ScriptEdOrg
 
 )
