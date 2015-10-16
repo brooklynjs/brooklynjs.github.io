@@ -416,7 +416,7 @@ process.exit(
 -  161.03 // ticketing     @useTito
 -  150.00 // entertainment KAI
 -  150.00 // travel costs
--   48.00 // card wood
+-   48.00 // card wood     Ocooch Hardwoods
 
 - 1087.93 // donation      @ScriptEdOrg
 
@@ -432,9 +432,11 @@ process.exit(
 -  110.00 // bar tab       @61local
 -  159.00 // ticketing     @useTito
 -  150.00 // entertainment @tootsweetmusic
+-  151.80 // card wood     Ocooch Hardwoods (3 months)
+-  550.44 // card lasering @makemode (3 months)
 -   14.09 // stamps        @target
 -   11.95 // name tags     @target
 
--    0.00 // donation      @ScriptEdOrg
+- 1037.37 // donation      @ScriptEdOrg
 
 )
