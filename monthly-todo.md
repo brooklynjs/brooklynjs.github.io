@@ -3,22 +3,30 @@
 #### Day After
 
 ##### Budget
+Owner:
+
 - [ ] Reimburse expenses (stickers, nametags, etc)
 - [ ] Reimburse musical guest
 - [ ] Donate excess funds
 - [ ] Update budget.js
 
 ##### Ti.to
+Owner:
+
 - [ ] Duplicate event
 - [ ] Rename to next event name, change url & date
 - [ ] Set proper ticket on sale times
 
 ##### Reset Website
+Owner:
+
 - [ ] Remove last month speakers, sponsors, musical guest
 - [ ] Change date
 - [ ] Change links to new ti.to event
 
 ##### Tweets
+Owner:
+
 - [ ] Thank speakers / musical guests
 - [ ] Thank sponsors / announce donations
 - [ ] Announce next event
@@ -53,6 +61,8 @@
 #### Sponsors
 
 ##### Sponsor A
+Owner:
+
 - [ ] Find sponsor
 - [ ] Get slides
 - [ ] Ask for tweet content
@@ -60,6 +70,8 @@
 - [ ] Ask if they will be bringing swag
 
 ##### Sponsor B
+Owner:
+
 - [ ] Find sponsor
 - [ ] Get slides
 - [ ] Ask for tweet content
@@ -67,6 +79,8 @@
 - [ ] Ask if they will be bringing swag
 
 ##### Sponsor C
+Owner:
+
 - [ ] Find sponsor
 - [ ] Get slides
 - [ ] Ask for tweet content
@@ -74,15 +88,21 @@
 - [ ] Ask if they will be bringing swag
 
 #### Musical Guest
+Owner:
+
 - [ ] Find musical guest
 - [ ] Announce musical guest
 
 #### Event Tokens
+Owner:
+
 - [ ] Order material
 - [ ] Order event tokens
 - [ ] Pickup event tokens
 
 #### Intro Slides
+Owner:
+
 - [ ] Update speaker slides
 - [ ] Update sponsor slides
 - [ ] Update boro.js slides
