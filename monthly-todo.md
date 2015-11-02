@@ -9,7 +9,7 @@
 - [ ] Update speakers.csv
 
 ##### Budget
-Owner:
+Assigned To:
 
 - [ ] Reimburse expenses (stickers, nametags, etc)
 - [ ] Reimburse musical guest
@@ -17,21 +17,21 @@ Owner:
 - [ ] Update budget.js
 
 ##### Ti.to
-Owner:
+Assigned To:
 
 - [ ] Duplicate event
 - [ ] Rename to next event name, change url & date
 - [ ] Set proper ticket on sale times
 
 ##### Reset Website
-Owner:
+Assigned To:
 
 - [ ] Remove last month speakers, sponsors, musical guest
 - [ ] Change date
 - [ ] Change links to new ti.to event
 
 ##### Tweets
-Owner:
+Assigned To:
 
 - [ ] Thank speakers / musical guests
 - [ ] Thank sponsors / announce donations
@@ -39,7 +39,6 @@ Owner:
 
 #### 15 days before
 - [ ] Tweet last call for speaker submissions
-- [ ] Find event bouncers
 
 #### 14 days before
 - [ ] Choose and merge accepted speaker pull requests
@@ -67,7 +66,7 @@ Owner:
 #### Sponsors
 
 ##### Sponsor A
-Owner:
+Assigned To:
 
 - [ ] Find sponsor
 - [ ] Get slides
@@ -76,7 +75,7 @@ Owner:
 - [ ] Ask if they will be bringing swag
 
 ##### Sponsor B
-Owner:
+Assigned To:
 
 - [ ] Find sponsor
 - [ ] Get slides
@@ -85,7 +84,7 @@ Owner:
 - [ ] Ask if they will be bringing swag
 
 ##### Sponsor C
-Owner:
+Assigned To:
 
 - [ ] Find sponsor
 - [ ] Get slides
@@ -94,20 +93,46 @@ Owner:
 - [ ] Ask if they will be bringing swag
 
 #### Musical Guest
-Owner:
+Assigned To:
 
 - [ ] Find musical guest
 - [ ] Announce musical guest
 
+#### Bouncers
+
+##### Bouncer A
+Assigned To:
+Bouncer Contact:
+
+- [ ] Find bouncer
+- [ ] Send bouncer ticket
+- [ ] Setup bouncer with ticketing
+
+##### Bouncer B
+Assigned To:
+Bouncer Contact:
+
+- [ ] Find bouncer
+- [ ] Send bouncer ticket
+- [ ] Setup bouncer with ticketing
+
+##### Bouncer C
+Assigned To:
+Bouncer Contact:
+
+- [ ] Find bouncer
+- [ ] Send bouncer ticket
+- [ ] Setup bouncer with ticketing
+
 #### Event Tokens
-Owner:
+Assigned To:
 
 - [ ] Order material
 - [ ] Order event tokens
 - [ ] Pickup event tokens
 
 #### Intro Slides
-Owner:
+Assigned To:
 
 - [ ] Update speaker slides
 - [ ] Update sponsor slides
