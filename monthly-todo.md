@@ -1,4 +1,4 @@
-# Timed Events
+### Timed Events
 
 #### Start of Cycle
 
@@ -73,6 +73,7 @@ Assigned To:
 - [ ] Ask for tweet content
 - [ ] Schedule sponsor tweet
 - [ ] Ask if they will be bringing swag
+- [ ] Send 2 sponsor tickets
 
 ##### Sponsor B
 Assigned To:
@@ -82,6 +83,7 @@ Assigned To:
 - [ ] Ask for tweet content
 - [ ] Schedule sponsor tweet
 - [ ] Ask if they will be bringing swag
+- [ ] Send 2 sponsor tickets
 
 ##### Sponsor C
 Assigned To:
@@ -91,6 +93,7 @@ Assigned To:
 - [ ] Ask for tweet content
 - [ ] Schedule sponsor tweet
 - [ ] Ask if they will be bringing swag
+- [ ] Send 2 sponsor tickets
 
 #### Musical Guest
 Assigned To:
