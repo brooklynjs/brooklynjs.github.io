@@ -1,6 +1,12 @@
 # Timed Events
 
-#### Day After
+#### Start of Cycle
+
+##### Github
+- [ ] Close last month's todo list
+- [ ] Make sure sponsor pipeline wiki is in sync
+- [ ] Update sponsors.csv
+- [ ] Update speakers.csv
 
 ##### Budget
 Owner:
