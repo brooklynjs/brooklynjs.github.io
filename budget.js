@@ -439,4 +439,20 @@ process.exit(
 
 - 1037.37 // donation      @ScriptEdOrg
 
+          // BrooklynJS #25 2015-11-19T19:00Z at @61Local
+          // featuring @jedschmidt's barbershop quartet, the four fives
+          // with special musical guest @richlitt, @maryrosecook, @marijnjh, @zeejab, and @BrendanEich
++ 1853.66 // ticket sales  @useTito
++  500.00 // sponsorship   @nymag
++  500.00 // sponsorship   @twilio
++  500.00 // sponsorship   @ride
+
+-  750.35 // food & venue  @61local
+-   90.00 // bar tab       @61local
+-  186.34 // ticketing     @useTito
+-  150.00 // entertainment @jedschmidt
+- 1725.00 // socks         @sockclub
+
+-  451.97 // donation      @ScriptEdOrg
+
 )
