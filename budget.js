@@ -456,4 +456,14 @@ process.exit(
 
 -  399.56 // donation      @ScriptEdOrg
 
+          // BrooklynJS #26 2015-12-17T19:00Z at @61Local
+          // featuring @ohhoe, @E0M, @meyerini, @nathanstilwell, and @reconbot
+          // with special musical guest, Bachtopus
+
++  500.00 // sponsorship   @_relayfm
++  500.00 // sponsorship   @StrideDev
+
+-  750.35 // food & venue  @61local
+-  150.00 // entertainment bachtopus
+
 )
