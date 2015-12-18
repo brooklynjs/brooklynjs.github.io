@@ -472,8 +472,9 @@ process.exit(
 -   56.42 // name tags     @amazon
 -   16.60 // shipping      @shyp
 
-+  186.76 // sponsorship   @jedschmidt
++  266.71 // sponsorship   @jedschmidt
 - 1740.00 // bench         Town of Herndon
+-   79.95 // bench plaque  amemorialplaque.com
 
 -  625.00 // donation      @ScriptEdOrg
 )
