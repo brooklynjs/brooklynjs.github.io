@@ -456,4 +456,25 @@ process.exit(
 
 -  399.56 // donation      @ScriptEdOrg
 
+          // BrooklynJS #26 2015-12-17T19:00Z at @61Local
+          // featuring @ohhoe, @E0M, @meyerini, @nathanstilwell, and @reconbot
+          // with special musical guest, Bachtopus
+
++ 2571.83 // ticket sales  @useTito
++  500.00 // sponsorship   @_relayfm
++  500.00 // sponsorship   @StrideDev
+
+-  750.35 // food & venue  @61local
+-  215.00 // bar tab       @61local
+-  198.17 // ticketing     @useTito
+-  150.00 // entertainment bachtopus
+-    7.07 // name tags     @staples
+-   56.42 // name tags     @amazon
+-   16.60 // shipping      @shyp
+
++  266.71 // sponsorship   @jedschmidt
+- 1740.00 // bench         Town of Herndon
+-   79.95 // bench plaque  amemorialplaque.com
+
+-  625.00 // donation      @ScriptEdOrg
 )
