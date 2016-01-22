@@ -478,7 +478,7 @@ process.exit(
 
 -  625.00 // donation      @ScriptEdOrg
 
-          // BrooklynJS #26 2016-01-21T19:00Z at @61Local
+          // BrooklynJS #27 2016-01-21T19:00Z at @61Local
           // featuring @ag_dubs,  @sethfsamuel, @am3thyst @samantha_gold, and @chriscoyier
           // with special musical guest, Zac Zinger, Tomoko Akaboshi, and George Dulin
 
