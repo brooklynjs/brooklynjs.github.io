@@ -1,6 +1,6 @@
 # Is BrooklynJS all-ages?
 
-Yes! Our venue 61Local is an all-ages establishment and so is BrooklynJS.
+Yes! Our venue, 61Local, is an all-ages establishment and so is BrooklynJS.
 
 # What is Boroughgramming?
 
@@ -13,8 +13,8 @@ as an icecream.js session afterwards).
 # What's up with the MetroCards?
 
 Every month we laser cut a BrooklynJS themed MetroCard out of a
-different material. We encourage you to keep this card which lets us
-donate your full entrance fee to ScriptEd. Otherwise you can trade in
+different material. We encourage you to keep this card (which lets us
+donate your full entrance fee to ScriptEd). Otherwise you can trade in
 your token for a beverage of your choice (tip your bartender!)
 
 # Are there non-alcoholic beverages? Food?
@@ -30,8 +30,8 @@ downstairs.
 
 # You sell out so fast! Why don't you release more tickets?
 
-We'd love for everyone who wants to come to be able to attend,
-unfortunately we are already packing people in as tight as we can
+We'd love for everyone who wants to come to be able to attend.
+Unfortunately we are already packing people in as tight as we can
 and we just don't have physical space to accommodate any more
 attendees above what we're selling now.
 
