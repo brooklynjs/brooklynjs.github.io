@@ -494,5 +494,5 @@ process.exit(
 -   61.00 // photographer
 -   51.37 // transport
 
-- 1647.54 // donation      @ScriptEdOrg
+- 1387.33 // donation      @ScriptEdOrg
 )
