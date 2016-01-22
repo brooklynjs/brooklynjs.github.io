@@ -43,9 +43,9 @@ We have...
 - WiFi
 - VGA
 - VGA to Thunderbolt adapters (Please bring any adapters if you need special one)
-We can also bring portable speaker if you have audio demo (Please let us know in advance)  
+We can also bring portable speaker if you have audio demo (Please let us know in advance)
 If you have any other needs for your talk, feel free to contact organizers. (@kosamari or @willmanduffy)
 
 ### Setup
-Once the event starts, we'll have musical guest in between talks. Please come up to front and setup for presentation while they are playing intermission.  
+Once the event starts, we'll have musical guest in between talks. Please come up to front and setup for presentation while they are playing intermission.
 If you want to test out slides/equipment etc, feel free to do so before the event.
