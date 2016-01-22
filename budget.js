@@ -477,4 +477,22 @@ process.exit(
 -   79.95 // bench plaque  amemorialplaque.com
 
 -  625.00 // donation      @ScriptEdOrg
+
+          // BrooklynJS #27 2016-01-21T19:00Z at @61Local
+          // featuring @ag_dubs,  @sethfsamuel, @am3thyst @samantha_gold, and @chriscoyier
+          // with special musical guest, Zac Zinger, Tomoko Akaboshi, and George Dulin
+
++ 2100.00 // ticket sales  @useTito
++  500.00 // sponsorship   @SparkPost
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  236.06 // bar tab       @61local
+-  260.21 // card lasering @makemodeco
+-  203.68 // ticketing     @useTito
+-  150.00 // entertainment Zac Zinger
+-   61.00 // photographer
+-   51.37 // transport
+
+- 1647.54 // donation      @ScriptEdOrg
 )
