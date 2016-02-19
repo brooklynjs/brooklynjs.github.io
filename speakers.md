@@ -23,7 +23,7 @@ Whether you have been writing JavaScript for 20 years or few days, experienced o
 **If you are visiting us from outside of NYC metro area, we provide upto $150 in travel assistance.
 
 ## I have more questions about submitting talks, what should I do?
-Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @jedschmidt or email us [add email address ?]
+Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique or email us at organizers@brooklynjs.com
 
 
 # Speaking at BrooklynJS
@@ -44,7 +44,7 @@ We have...
 - VGA
 - VGA to Thunderbolt adapters (Please bring any adapters if you need special one)
 We can also bring portable speaker if you have audio demo (Please let us know in advance)  
-If you have any other needs for your talk, feel free to contact organizers. (@kosamari or @willmanduffy)
+If you have any other needs for your talk, feel free to contact organizers. (@kosamari, @willmanduffy, or @paladique)
 
 ### Setup
 Once the event starts, we'll have musical guest in between talks. Please come up to front and setup for presentation while they are playing intermission.  
