@@ -23,7 +23,7 @@ Whether you have been writing JavaScript for 20 years or few days, experienced o
 **If you are visiting us from outside of NYC metro area, we provide upto $150 in travel assistance.
 
 ## I have more questions about submitting talks, what should I do?
-Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique or email us at organizers@brooklynjs.com
+Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique @jennschiffer  or email us at organizers@brooklynjs.com
 
 
 # Speaking at BrooklynJS
