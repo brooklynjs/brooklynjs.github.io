@@ -495,4 +495,25 @@ process.exit(
 -   51.37 // transport
 
 - 1387.33 // donation      @ScriptEdOrg
+
+          // BrooklynJS #28 2016-02-19T19:00Z at @61Local
+          // featuring @carolinesinders, @dmvaldman, @amelielamont, @aredridel, and @nolanlawson
+          // with special musical guest, Kurt Juergens
+
++ 1797.80 // ticket sales  @useTito
++  500.00 // sponsorship   @recursecenter
++  500.00 // sponsorship   @datadoghq
++  500.00 // sponsorship   @NerdyDataLtd
+
+-  750.35 // food & venue  @61local
+-  215.67 // bar tab       @61local
+-  260.21 // card lasering @makemodeco
+-  182.20 // ticketing     @useTito
+-  150.00 // entertainment Kurt Juergens
+-   18.94 // GAE           @google
+-   19.59 // mic cable     @RadioShack
+-    5.00 // transaction fee
+-   49.13 // transport
+
+- 1646.71 // donation      @ScriptEdOrg
 )
