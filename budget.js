@@ -516,4 +516,28 @@ process.exit(
 -   49.13 // transport
 
 - 1646.71 // donation      @ScriptEdOrg
+
+          // BrooklynJS #29 2016-03-17T19:00Z at @61Local
+          // featuring @eric_b_wood, @lynnaloo, @arturi, @Regular_Doc, @dphiffer, and @eirons
+          // with special musical guest, Mani Nilchiani
+
++ 1767.36 // ticket sales  @useTito
++  500.00 // sponsorship   @1stdibs
++  500.00 // sponsorship   Rockets of Awesome
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  267.11 // bar tab       @61local
+-  670.00 // card lasering for 3 months @makemodeco
+-  197.64 // ticketing     @useTito
+-  150.00 // entertainment @mani_art
+-   68.85 // name tag      @StickerYou
+-  107.79 // mic           @amazon
+-   74.00 // AV cables     @RadioShack
+-   11.20 // Power Strip   @riteaid
+-   71.94 // legal         LegalZoom
+-  150.00 // travel costs
+-   67.39 // transport
+
+-  681.09 // donation      @ScriptEdOrg
 )
