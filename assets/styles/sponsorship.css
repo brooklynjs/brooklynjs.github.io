@@ -11,16 +11,6 @@ article {
   margin: 20px auto;
 }
 
-.page-title {
-  padding: 20px 0 10px;
-  text-align: center;
-}
-
-.sponsorship {
-  min-width: 500px;
-  max-width: 650px;
-}
-
 .sponsorship-pricing {
   padding-left: 0;
 }

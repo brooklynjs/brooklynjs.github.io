@@ -72,3 +72,13 @@ a {
   text-decoration: none;
   border-bottom: 1px dotted;
 }
+
+.main-content {
+  min-width: 500px;
+  max-width: 650px;
+}
+
+.page-title {
+  padding: 20px 0 10px;
+  text-align: center;
+}
