@@ -544,6 +544,7 @@ process.exit(
           // BrooklynJS #30 2016-04-22T19:00Z at @61Local
           // featuring @bethcodes, @allegradenton, @veltman, @anna_ku212, and @sxywu
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+          // and deputy organizer @nathanstilwell
 
 + 2100.00 // ticket sales  @useTito
 +  500.00 // sponsorship   @oscarhealth
