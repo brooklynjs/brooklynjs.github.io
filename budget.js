@@ -555,9 +555,9 @@ process.exit(
 -  215.22 // bar tab       @61local
 -  190.82 // ticketing     @useTito
 -  150.00 // entertainment @jedschmidt
--   27.12 // Power Strip   @RadioShack
+-   27.21 // Power Strip   @RadioShack
 -  107.79 // mic           @amazon
 -   38.05 // transport
 
-- 2120.65 // donation      @ScriptEdOrg
+- 2120.56 // donation      @ScriptEdOrg
 )
