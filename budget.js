@@ -540,4 +540,23 @@ process.exit(
 -   67.39 // transport
 
 -  681.09 // donation      @ScriptEdOrg
+
+          // BrooklynJS #30 2016-04-22T19:00Z at @61Local
+          // featuring @bethcodes, @allegradenton, @veltman, @anna_ku212, and @sxywu
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 2100.00 // ticket sales  @useTito
++  500.00 // sponsorship   @oscarhealth
++  500.00 // sponsorship   Ando
++  500.00 // sponsorship   @EmpireJS
+
+-  750.35 // food & venue  @61local
+-  215.22 // bar tab       @61local
+-  190.82 // ticketing     @useTito
+-  150.00 // entertainment @jedschmidt
+-   27.12 // Power Strip   @RadioShack
+-  107.79 // mic           @amazon
+-   38.05 // transport
+
+- 2120.65 // donation      @ScriptEdOrg
 )
