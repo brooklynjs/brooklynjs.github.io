@@ -4,7 +4,7 @@
 We welcome & encourage _everyone_ to submit talk!
 Whether you have been writing JavaScript for 20 years or few days, experienced or 1st time* speaker, we want to hear that you are excited about.
 
-*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Peterson (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their 1st talk at BrooklynJS then started speaking at different meetups and conferences. If you have never spoken before we would love you to submit talk!
+*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Petersen (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their 1st talk at BrooklynJS then started speaking at different meetups and conferences. If you have never spoken before we would love you to submit talk!
 
 ## How Do I submit talks ?
 (TBD on workflow)
