@@ -560,4 +560,21 @@ process.exit(
 -   38.05 // transport
 
 - 2120.56 // donation      @ScriptEdOrg
+
+          // BrooklynJS #31 2016-05-19T19:00Z at @61Local
+          // featuring @noopkat @Rich_Harris @patriciarealini @mathisonian, and @youyuxi
+          // with special musical guest...
+
++ 1932.41 // ticket sales  @useTito
++  500.00 // sponsorship   @MicNews
++  500.00 // sponsorship   Ando
+
+-  750.35 // food & venue  @61local
+-  125.52 // bar tab       @61local
+-  167.59 // ticketing     @useTito
+-  150.00 // entertainment @jedschmidt
+-  200.00 // travel costs
+-    2.50 //transaction fee
+
+-  1536.45  // donation      @ScriptEdOrg
 )
