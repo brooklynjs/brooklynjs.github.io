@@ -572,9 +572,11 @@ process.exit(
 -  750.35 // food & venue  @61local
 -  125.52 // bar tab       @61local
 -  167.59 // ticketing     @useTito
--  150.00 // entertainment @jedschmidt
--  200.00 // travel costs
+-  150.00 // Speaker travel costs
+-  150.00 // entertainment Amanda Bellito Jazz Duo
+-   50.00 // entertainment travel costs (Metro North)
+-   34.55 // entertainment taxi
 -    2.50 // transaction fee
 
--  1536.45  // donation      @ScriptEdOrg
+- 1501.90 // donation      @ScriptEdOrg
 )
