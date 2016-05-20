@@ -574,7 +574,7 @@ process.exit(
 -  167.59 // ticketing     @useTito
 -  150.00 // entertainment @jedschmidt
 -  200.00 // travel costs
--    2.50 //transaction fee
+-    2.50 // transaction fee
 
 -  1536.45  // donation      @ScriptEdOrg
 )
