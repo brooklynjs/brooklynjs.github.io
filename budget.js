@@ -563,7 +563,7 @@ process.exit(
 
           // BrooklynJS #31 2016-05-19T19:00Z at @61Local
           // featuring @noopkat @Rich_Harris @patriciarealini @mathisonian, and @youyuxi
-          // with special musical guest...
+          // with special musical guest Amanda Bellitto & Michaela Coppola
 
 + 1932.41 // ticket sales  @useTito
 +  500.00 // sponsorship   @MicNews
@@ -579,4 +579,23 @@ process.exit(
 -    2.50 // transaction fee
 
 - 1501.90 // donation      @ScriptEdOrg
+
+          // BrooklynJS #32 2016-06-16T19:00Z at @61Local
+          // featuring @thomasABoyt, @ericwilliamlin, @left_pad, @catehstn, and @_danilo
+          // with special musical guest Nick Biello
+
++ 1781.28 // ticket sales  @useTito
++  500.00 // sponsorship   @Everplans
++  500.00 // sponsorship   FABRIC
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-   91.45 // bar tab       @61local
+-  198.72 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment Nick Biello
+-   24.13 // USB memory    @amazon
+-  135.53 // transport
+
+- 1670.89 // donation      @ScriptEdOrg
 )
