@@ -598,4 +598,23 @@ process.exit(
 -  135.53 // transport
 
 - 1670.89 // donation      @ScriptEdOrg
+
+          // BrooklynJS #32 2016-07-21T19:00Z at @61Local
+          // featuring  @bcrypt, @ughitsaaron, @ilikescience, @linclark, and @potch
+          // with special musical guest @ajpiano and @janecakemaster's Const On Broadway
+
++ 1881.90 // ticket sales  @useTito
++  500.00 // sponsorship   @workandco
++  500.00 // sponsorship   @bocoup
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  195.05 // bar tab       @61local
+-  188.10 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @ajpiano and @janecakemaster
+-  150.00 // travel costs
+-   74.48 // transport
+
+- 1613.71 // donation      @ScriptEdOrg
 )
