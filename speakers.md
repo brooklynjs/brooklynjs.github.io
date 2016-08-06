@@ -1,26 +1,24 @@
-# Submitting Talk
+# Submitting A Talk
 
 ## Who can submit talks to BrooklynJS
-We welcome & encourage _everyone_ to submit talk!
-Whether you have been writing JavaScript for 20 years or few days, experienced or 1st time* speaker, we want to hear that you are excited about.
+We welcome & encourage _everyone_ to submit a talk!
+Whether you have been writing JavaScript for 20 years or few days, an experienced or 1st time speaker, we want to hear what you are excited about.
 
-*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Petersen (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their 1st talk at BrooklynJS then started speaking at different meetups and conferences. If you have never spoken before we would love you to submit talk!
+*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Petersen (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their first talk at BrooklynJS, then started speaking at different meetups and conferences. BrooklynJS is very first time speaker friendly!*
 
-## How Do I submit talks ?
-(TBD on workflow)
+## How do I submit a talk?
+If you'd like to submit a talk, visit the BrooklynJS website repository and submit a Pull Request.
 
 ## What would be a good talk topics?
-(TBD on workfrok)
+(TBD on workflow)
 
 ## What do Speakers get?
 - 1 Boroughgramming* ticket (Free) for you to attend
-- 1 regular BrooklynJS ticket ($15) so your guest don't have to hassle to get ticket
-- 10 min to present what you are excited about in front of 100 borough-mates
-- (travel assistance for out of town speakers**)
+- 1 regular BrooklynJS ticket ($15) for a guest that you'd like to have watch your talk.
+- 10 minutes to present what you are excited about in front of 100 borough-mates
+- Up to $150 in travel assistance if you're a speaker outside of the NYC metro area.
 
 *If you'd like to come co-work with 30 of borough-mates with bottomless coffee and catered lunch, please be our guest! (We start at 10AM at the same space we run BrooklynJS)
-
-**If you are visiting us from outside of NYC metro area, we provide upto $150 in travel assistance.
 
 ## I have more questions about submitting talks, what should I do?
 Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique @jennschiffer  or email us at organizers@brooklynjs.com
