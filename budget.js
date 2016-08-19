@@ -617,4 +617,23 @@ process.exit(
 -   74.48 // transport
 
 - 1613.71 // donation      @ScriptEdOrg
+
+          // BrooklynJS #33 2016-08-19T19:00Z at @61Local
+          // featuring  @ZeeJab, @dcousineau, @palencharizard, @modernserf, and @pamasaur
+          // with special musical guest @copasetickid
+
++ 1935.00 // ticket sales  @useTito
++  500.00 // sponsorship   @blinkhealth
++  500.00 // sponsorship   @SparkPost
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  188.51 // bar tab       @61local
+-  180.18 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @copasetickid
+-    6.52 // audio cable   @RadioShack
+-   32.61 // transport
+
+- 1866.62 // donation      @ScriptEdOrg
 )
