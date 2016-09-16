@@ -636,4 +636,22 @@ process.exit(
 -   32.61 // transport
 
 - 1866.62 // donation      @ScriptEdOrg
+
+          // BrooklynJS #34 2016-09-15T19:00Z at @61Local
+          // featuring  @mapmeld, @hipsterbrown, @iamjessklein, @dluxemburg, and @Schoonology
+          // with special musical guest @samparkerjazz
+
++ 1663.09 // ticket sales  @useTito
++  500.00 // sponsorship   @ReaktorNow
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  321.92 // bar tab       @61local
+-  151.91 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @samparkerjazz
+-   66.39 // transport
+
+-  961.32 // donation      @ScriptEdOrg
+
 )
