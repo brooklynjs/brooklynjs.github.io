@@ -9,11 +9,9 @@
     <link rel='stylesheet' type='text/css' href='assets/styles/layout.css'  />
     <link rel='stylesheet' type='text/css' href='assets/styles/index.css'  />
     <script>
-      var then = new Date(2016, 9, 20)
-
+      var then = new Date(2016, 10, 17)
       var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
       var months = 'January February March April May June July August September October November December'.split(' ')
-
       function suffixed(number) {
         if (number > 9 && number < 21)
           return number + "th"
@@ -25,29 +23,24 @@
         default: return number + "th"
         }
       }
-
       function longEventDate() {
         var weekday = days[then.getDay()]
         var month = months[then.getMonth()]
         var date = month + " " + suffixed(then.getDate())
         document.write([weekday, date, "at 7pm"].join(", "))
       }
-
       function shortEventDate() {
         document.write((then.getMonth()+1) + "/" + then.getDate())
       }
-
       function timeLeft() {
         var now = new Date
         var n = 0 | (then - now) / 86400000
-
         document.write(
           n >  1 ? n + " days" :
           n == 1 ? "1 day"     :
           n == 0 ? "A while"   : ""
         )
       }
-
       function speakerTime() {
         speakerTime.i = -~speakerTime.i
         document.write("7:" + speakerTime.i + "0p")
@@ -125,25 +118,26 @@
         <li class="ride"></li>
         <li class="speaker">
           <time>8:15p</time>
-      </li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time>8:30p</time> 
-<small>
-<li class = "speaker">Project EON is an open-sourced, web-based real-time chart/graph data visualization framework that lets you easily customize your visualization with a variety of chart types, themes, markers, and more. The chart builder tool makes it so you may not even have to write a line of code, unless you wanted to really customize your visualization! Realtime data could include weather, stocks, geolocation, or tweets...</li></br>
-<li class = "speaker">My project is a realtime data visualization of tweets about the Warriors during the NBA Finals.</li></br>
-<li>A quick overview of an iOS app that uses a webview to display heart rate from the Apple Watch. Though EON is a web-based framework, it is easy to use this web-based framework across platforms.</li></br>
-<li class ="speaker">Live coding demo on building an NYC sports team data visualization from tweets.</li> 
-</small>
-          <li class ="speaker"><div><a href="https://twitter.com/lizziepika">Lizzie Siegle - @lizziepika</a></div></li>
-</li>
-        <li class="ride"></li>
-        <li class="speaker">
-          <time>8:45p</time>
           <!--
             To add yourself to this slot, change the following two lines
             and add a short description paragraph in the pull request.
           -->
+          <small>Listen to our second speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR SECOND SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:30p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Git Blame--how Imposter Syndrome can make us better.</small>
+          <div><a href="https://twitter.com/lizziepika">Lizzie Siegle</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:45p</time>
           <small>Listen to our fourth speaker, or better yet</small>
           <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/edit/master/index.html">BE OUR FOURTH SPEAKER</a></div>
         </li>
@@ -188,10 +182,8 @@
        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
                               m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
      ga('create', 'UA-66830517-1', 'auto');
      ga('send', 'pageview');
-
     </script>
 
   </body>

@@ -654,4 +654,26 @@ process.exit(
 
 -  961.32 // donation      @ScriptEdOrg
 
+          // BrooklynJS #36 2016-10-21T19:00Z at @61Local
+          // featuring @0utoftime, @_hooan, @bxh_io, @zeigenvector, and @batslyadams
+          // with special musical guest @hypirlink and @eric_b_wood
+
++ 1788.99 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @GoDaddy
++  500.00 // sponsorship   @1stdibs
++  500.00 // sponsorship   @Everplans
+
+-  750.35 // food & venue  @61local
+-  195.97 // bar tab       @61local
+-  206.01 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @hypirlink and @eric_b_wood
+-   24.99 // VGA cable     @amazon
+-  189.00 // stickers      @stickermule
+-   74.10 // transport
+- 1354.68 // Holdover for November
+
+-  583.68 // donation      @ScriptEdOrg
+
 )
