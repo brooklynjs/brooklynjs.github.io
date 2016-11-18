@@ -672,8 +672,28 @@ process.exit(
 -   24.99 // VGA cable     @amazon
 -  189.00 // stickers      @stickermule
 -   74.10 // transport
-- 1354.68 // Holdover for November
+- 1354.68 // special scarf @sportsscarf
 
 -  583.68 // donation      @ScriptEdOrg
+
+          // BrooklynJS #37 2016-11-17T19:00Z at @61Local
+          // featuring @brendamarienyc @ChaseGilliam @vaidehijoshi Elana Hashman, and @buritica
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 1876.04 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @SparkPost
++    0.00 // sponsorship   @GoDaddy discount for multi-month sponsorship, thank you!
+
+-  750.35 // food & venue  @61local
+-  124.12 // bar tab       @61local
+-  163.96 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @jedschmidt
+-  150.00 // photographer  Brooke Duffy
+-   80.96 // party decorations (balloons, glow sticks, etc)
+-  147.55 // transport
+
+- 1048.89 // donation      @ScriptEdOrg
 
 )
