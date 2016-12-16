@@ -677,7 +677,7 @@ process.exit(
 -  583.68 // donation      @ScriptEdOrg
 
           // BrooklynJS #37 2016-11-17T19:00Z at @61Local
-          // featuring @brendamarienyc @ChaseGilliam @vaidehijoshi Elana Hashman, and @buritica
+          // featuring @brendamarienyc, @ChaseGilliam, @vaidehijoshi, Elana Hashman, and @buritica
           // with special musical guest, @jedschmidt's barbershop quartet, the four fives
 
 + 1876.04 // ticket sales  @useTito
@@ -695,5 +695,23 @@ process.exit(
 -  147.55 // transport
 
 - 1048.89 // donation      @ScriptEdOrg
+
+          // BrooklynJS #38 2016-12-15T19:00Z at @61Local
+          // featuring @thealphanerd, @Justin_Ireland, @carolinesinders & @mani_art, @twitchard, and @bodil
+          // with special musical guest, Stephanie Coleman & James Shipp
+
++ 1716.61 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @StrideDev
++  400.00 // sponsorship   @GoDaddy discount for multi-month sponsorship, thank you!
+
+-  750.35 // food & venue  @61local
+-  156.00 // bar tab       @61local
+-  173.39 // ticketing     @useTito
+-  150.00 // entertainment Stephanie Coleman & James Shipp
+-   54.43 // HDMI dongle   @radioshack
+-  123.06 // transport
+
+- 1709.38 // donation      @ScriptEdOrg
 
 )
