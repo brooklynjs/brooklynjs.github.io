@@ -560,4 +560,158 @@ process.exit(
 -   38.05 // transport
 
 - 2120.56 // donation      @ScriptEdOrg
+
+          // BrooklynJS #31 2016-05-19T19:00Z at @61Local
+          // featuring @noopkat @Rich_Harris @patriciarealini @mathisonian, and @youyuxi
+          // with special musical guest Amanda Bellitto & Michaela Coppola
+
++ 1932.41 // ticket sales  @useTito
++  500.00 // sponsorship   @MicNews
++  500.00 // sponsorship   Ando
+
+-  750.35 // food & venue  @61local
+-  125.52 // bar tab       @61local
+-  167.59 // ticketing     @useTito
+-  150.00 // Speaker travel costs
+-  150.00 // entertainment Amanda Bellito Jazz Duo
+-   50.00 // entertainment travel costs (Metro North)
+-   34.55 // entertainment taxi
+-    2.50 // transaction fee
+
+- 1501.90 // donation      @ScriptEdOrg
+
+          // BrooklynJS #32 2016-06-16T19:00Z at @61Local
+          // featuring @thomasABoyt, @ericwilliamlin, @left_pad, @catehstn, and @_danilo
+          // with special musical guest Nick Biello
+
++ 1781.28 // ticket sales  @useTito
++  500.00 // sponsorship   @Everplans
++  500.00 // sponsorship   FABRIC
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-   91.45 // bar tab       @61local
+-  198.72 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment Nick Biello
+-   24.13 // USB memory    @amazon
+-  135.53 // transport
+
+- 1670.89 // donation      @ScriptEdOrg
+
+          // BrooklynJS #32 2016-07-21T19:00Z at @61Local
+          // featuring  @bcrypt, @ughitsaaron, @ilikescience, @linclark, and @potch
+          // with special musical guest @ajpiano and @janecakemaster's Const On Broadway
+
++ 1881.90 // ticket sales  @useTito
++  500.00 // sponsorship   @workandco
++  500.00 // sponsorship   @bocoup
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  195.05 // bar tab       @61local
+-  188.10 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @ajpiano and @janecakemaster
+-  150.00 // travel costs
+-   74.48 // transport
+
+- 1613.71 // donation      @ScriptEdOrg
+
+          // BrooklynJS #33 2016-08-19T19:00Z at @61Local
+          // featuring  @ZeeJab, @dcousineau, @palencharizard, @modernserf, and @pamasaur
+          // with special musical guest @copasetickid
+
++ 1935.00 // ticket sales  @useTito
++  500.00 // sponsorship   @blinkhealth
++  500.00 // sponsorship   @SparkPost
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  188.51 // bar tab       @61local
+-  180.18 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @copasetickid
+-    6.52 // audio cable   @RadioShack
+-   32.61 // transport
+
+- 1866.62 // donation      @ScriptEdOrg
+
+          // BrooklynJS #34 2016-09-15T19:00Z at @61Local
+          // featuring  @mapmeld, @hipsterbrown, @iamjessklein, @dluxemburg, and @Schoonology
+          // with special musical guest @samparkerjazz
+
++ 1663.09 // ticket sales  @useTito
++  500.00 // sponsorship   @ReaktorNow
++  500.00 // sponsorship   @GoDaddy
+
+-  750.35 // food & venue  @61local
+-  321.92 // bar tab       @61local
+-  151.91 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @samparkerjazz
+-   66.39 // transport
+
+-  961.32 // donation      @ScriptEdOrg
+
+          // BrooklynJS #36 2016-10-21T19:00Z at @61Local
+          // featuring @0utoftime, @_hooan, @bxh_io, @zeigenvector, and @batslyadams
+          // with special musical guest @hypirlink and @eric_b_wood
+
++ 1788.99 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @GoDaddy
++  500.00 // sponsorship   @1stdibs
++  500.00 // sponsorship   @Everplans
+
+-  750.35 // food & venue  @61local
+-  195.97 // bar tab       @61local
+-  206.01 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @hypirlink and @eric_b_wood
+-   24.99 // VGA cable     @amazon
+-  189.00 // stickers      @stickermule
+-   74.10 // transport
+- 1354.68 // special scarf @sportsscarf
+
+-  583.68 // donation      @ScriptEdOrg
+
+          // BrooklynJS #37 2016-11-17T19:00Z at @61Local
+          // featuring @brendamarienyc, @ChaseGilliam, @vaidehijoshi, Elana Hashman, and @buritica
+          // with special musical guest, @jedschmidt's barbershop quartet, the four fives
+
++ 1876.04 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @SparkPost
++    0.00 // sponsorship   @GoDaddy discount for multi-month sponsorship, thank you!
+
+-  750.35 // food & venue  @61local
+-  124.12 // bar tab       @61local
+-  163.96 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @jedschmidt
+-  150.00 // photographer  Brooke Duffy
+-   80.96 // party decorations (balloons, glow sticks, etc)
+-  147.55 // transport
+
+- 1048.89 // donation      @ScriptEdOrg
+
+          // BrooklynJS #38 2016-12-15T19:00Z at @61Local
+          // featuring @thealphanerd, @Justin_Ireland, @carolinesinders & @mani_art, @twitchard, and @bodil
+          // with special musical guest, Stephanie Coleman & James Shipp
+
++ 1716.61 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @StrideDev
++  400.00 // sponsorship   @GoDaddy discount for multi-month sponsorship, thank you!
+
+-  750.35 // food & venue  @61local
+-  156.00 // bar tab       @61local
+-  173.39 // ticketing     @useTito
+-  150.00 // entertainment Stephanie Coleman & James Shipp
+-   54.43 // HDMI dongle   @radioshack
+-  123.06 // transport
+
+- 1709.38 // donation      @ScriptEdOrg
+
 )

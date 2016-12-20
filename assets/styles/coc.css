@@ -36,3 +36,8 @@ iframe {
 .event-staff strong {
   font-weight: 500;
 }
+
+.phone-number {
+  font-size: 90%;
+  text-align: center;
+}
