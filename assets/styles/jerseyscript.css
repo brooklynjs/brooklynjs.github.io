@@ -1,5 +1,6 @@
 body {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
+  margin: 0;
 }
 
 .event-time {
@@ -38,7 +39,7 @@ body {
 .main-content {
   margin: 100px auto;
   max-width: 650px;
-  min-width: 500px;
+  min-width: 400px;
   width: 500px;
 }
 
@@ -65,4 +66,17 @@ body {
   font-size: 28px;
   font-weight: 900;
   padding: 20px;
+}
+
+footer {
+  background: #FFF;
+  border: 3px solid #000;
+  font-size: 12px;
+  padding: 20px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+footer a, a:visited {
+  color: #000;
 }
