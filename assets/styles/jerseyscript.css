@@ -77,6 +77,6 @@ footer {
   text-align: center;
 }
 
-footer a, a:visited {
+a, a:visited {
   color: #000;
 }
