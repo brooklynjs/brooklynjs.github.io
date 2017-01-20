@@ -714,4 +714,22 @@ process.exit(
 
 - 1709.38 // donation      @ScriptEdOrg
 
+          // BrooklynJS #38 2017-01-19T19:00Z at @61Local
+          // featuring @superSGP, @luisamariethm, @kittykaraoke, @SaraJChipps, and @bertspaan
+          // with special musical guest @helenhousandi
+
++ 1467.16 // ticket sales  @useTito
++  500.00 // sponsorship   @kickstarter
++  500.00 // sponsorship   @SparkPost
++  500.00 // sponsorship   FABRIC
+
+-  750.35 // food & venue  @61local
+-  195.22 // bar tab       @61local
+-  167.84 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @helenhousandi
+-  130.72 // transport
+
+- 1312.82 // donation      @ScriptEdOrg
+
 )
