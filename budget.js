@@ -599,7 +599,7 @@ process.exit(
 
 - 1670.89 // donation      @ScriptEdOrg
 
-          // BrooklynJS #32 2016-07-21T19:00Z at @61Local
+          // BrooklynJS #33 2016-07-21T19:00Z at @61Local
           // featuring  @bcrypt, @ughitsaaron, @ilikescience, @linclark, and @potch
           // with special musical guest @ajpiano and @janecakemaster's Const On Broadway
 
@@ -618,7 +618,7 @@ process.exit(
 
 - 1613.71 // donation      @ScriptEdOrg
 
-          // BrooklynJS #33 2016-08-19T19:00Z at @61Local
+          // BrooklynJS #34 2016-08-19T19:00Z at @61Local
           // featuring  @ZeeJab, @dcousineau, @palencharizard, @modernserf, and @pamasaur
           // with special musical guest @copasetickid
 
@@ -637,7 +637,7 @@ process.exit(
 
 - 1866.62 // donation      @ScriptEdOrg
 
-          // BrooklynJS #34 2016-09-15T19:00Z at @61Local
+          // BrooklynJS #35 2016-09-15T19:00Z at @61Local
           // featuring  @mapmeld, @hipsterbrown, @iamjessklein, @dluxemburg, and @Schoonology
           // with special musical guest @samparkerjazz
 
@@ -714,13 +714,13 @@ process.exit(
 
 - 1709.38 // donation      @ScriptEdOrg
 
-          // BrooklynJS #38 2017-01-19T19:00Z at @61Local
+          // BrooklynJS #39 2017-01-19T19:00Z at @61Local
           // featuring @superSGP, @luisamariethm, @kittykaraoke, @SaraJChipps, and @bertspaan
           // with special musical guest @helenhousandi
 
 + 1467.16 // ticket sales  @useTito
-+  500.00 // sponsorship   @kickstarter
-+  500.00 // sponsorship   @SparkPost
++  350.00 // sponsorship   @kickstarter
++  350.00 // sponsorship   @SparkPost
 +  500.00 // sponsorship   FABRIC
 
 -  750.35 // food & venue  @61local
@@ -730,6 +730,6 @@ process.exit(
 -  150.00 // entertainment @helenhousandi
 -  130.72 // transport
 
-- 1312.82 // donation      @ScriptEdOrg
+- 1012.82 // donation      @ScriptEdOrg
 
 )
