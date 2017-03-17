@@ -732,4 +732,27 @@ process.exit(
 
 - 1012.82 // donation      @ScriptEdOrg
 
+          // BrooklynJS #40 2017-02-16T19:00Z at @61Local
+          // Bevara.js edition. Snacks sponsored by @Everplans
+
+-  50.00 //  venue         @61local
+
+          // BrooklynJS #41 2017-03-16T19:00Z at @61Local
+          // featuring @zachlieberman, @christinaent, @meyerini, @epstein_n, and @ohhoe
+          // with special musical guest @mani_art
+
++ 1935.00 // ticket sales  @useTito
++  500.00 // sponsorship   @hearst
++  500.00 // sponsorship   @datadoghq
++  500.00 // sponsorship   @vimeo
+
+-  750.35 // food & venue  @61local
+-  104.52 // bar tab       @61local
+-  179.40 // ticketing     @useTito
+-  260.21 // card lasering Make Mode
+-  150.00 // entertainment @mani_art
+-  111.82 // transport
+
+- 1828.70 // donation      @ScriptEdOrg
+
 )
