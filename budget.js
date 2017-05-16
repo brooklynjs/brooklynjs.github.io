@@ -772,4 +772,19 @@ process.exit(
 
 - 1187.24 // donation      @ScriptEdOrg
 
+          // BrooklynJS #43 2017-05-18T19:00Z at @61Local
+          // featuring @sethfsamuel @rhodesjason @callparty @jedschmidt, and @patriciarealini
+          // with special musical guest [_pelase fill in_]
+
++ 1860.00 // ticket sales  @useTito
++  500.00 // sponsorship   @staehere
+
+-  750.35 // food & venue  @61local
+-       0 // bar tab       @61local
+-  131.31 // ticketing     @useTito
+-  150.00 // entertainment
+-       0 // transport
+
+- 1328.34 // donation      @ScriptEdOrg
+
 )
