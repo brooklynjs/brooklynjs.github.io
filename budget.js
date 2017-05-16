@@ -755,4 +755,21 @@ process.exit(
 
 - 1828.70 // donation      @ScriptEdOrg
 
+          // BrooklynJS #42 2017-04-20T19:00Z at @61Local
+          // featuring @NadiehBremer @saikofish @chjno_ @_alastair, and @sxywu
+          // with special musical guest Amanda Bellitto and Nick Semenykhin
+
++ 1860.00 // ticket sales  @useTito
++  500.00 // sponsorship   @blinkhealth
++  500.00 // sponsorship   @SparkPost
+
+-  750.35 // food & venue  @61local
+-  236.52 // bar tab       @61local
+-  153.58 // ticketing     @useTito
+-  250.00 // card lasering Make Mode
+-  150.00 // entertainment @mani_art
+-  132.31 // transport
+
+- 1187.24 // donation      @ScriptEdOrg
+
 )
