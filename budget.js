@@ -783,10 +783,9 @@ process.exit(
 -  750.35 // food & venue  @61local
 -   81.00 // bar tab       @61local
 -  158.13 // ticketing     @useTito
--  150.00 // entertainment
 -   28.20 // transport
 -   15.99 // new usb-c to vga adapter @amazon
 
-- 1593.20 // donation      @ScriptEdOrg
+- 1743.20 // donation      @ScriptEdOrg
 
 )
