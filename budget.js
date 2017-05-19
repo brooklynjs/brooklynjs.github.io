@@ -781,11 +781,12 @@ process.exit(
 +  500.00 // sponsorship   @casper
 
 -  750.35 // food & venue  @61local
--       0 // bar tab       @61local
+-   81.00 // bar tab       @61local
 -  158.13 // ticketing     @useTito
 -  150.00 // entertainment
--       0 // transport
+-   28.20 // transport
+-   15.99 // new usb-c to vga adapter @amazon
 
-- 1718.39 // donation      @ScriptEdOrg
+- 1593.20 // donation      @ScriptEdOrg
 
 )
