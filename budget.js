@@ -672,6 +672,7 @@ process.exit(
 -   24.99 // VGA cable     @amazon
 -  189.00 // stickers      @stickermule
 -   74.10 // transport
+
 - 1354.68 // special scarf @sportsscarf
 
 -  583.68 // donation      @ScriptEdOrg
@@ -788,4 +789,7 @@ process.exit(
 
 - 1743.20 // donation      @ScriptEdOrg
 
+- 1354.68 // Holdover for November
+
+-  583.68 // donation      @ScriptEdOrg
 )
