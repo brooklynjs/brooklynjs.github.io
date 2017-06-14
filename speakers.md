@@ -20,6 +20,10 @@ Whether you have been writing JavaScript for 20 years or few days, experienced o
 
 *If you'd like to come co-work with 30 of borough-mates with bottomless coffee and catered lunch, please be our guest! (We start at 10AM at the same space we run BrooklynJS)
 
+## When are speakers chosen?
+
+We usually select speakers two weeks before an event, the day before tickets go on sale.
+
 **If you are visiting us from outside of NYC metro area, we provide upto $150 in travel assistance.
 
 ## I have more questions about submitting talks, what should I do?
