@@ -774,7 +774,7 @@ process.exit(
 
           // BrooklynJS #43 2017-05-18T19:00Z at @61Local
           // featuring @sethfsamuel @rhodesjason @callparty @jedschmidt, and @patriciarealini
-          // with special musical guest [_pelase fill in_]
+          // with special musical guest @modernserf
 
 + 1776.87 // ticket sales  @useTito
 +  500.00 // sponsorship   @staehere
@@ -787,5 +787,22 @@ process.exit(
 -   15.99 // new usb-c to vga adapter @amazon
 
 - 1743.20 // donation      @ScriptEdOrg
+
+          // BrooklynJS #44 2017-06-16T19:00Z at @61Local
+          // featuring @justinjmoses, @jescalan, @noopkat, @elliot_bentley, and @jaffathecake
+          // with special musical guest Zac Zinger's KAI.
+
++ 1782.82 // ticket sales  @useTito
++  500.00 // sponsorship   @github
++  500.00 // sponsorship   @mikmaktv
++  500.00 // sponsorship   @ParsecMedia
+
+-  331.78 // pins          @mlbadges
+-  800.35 // food & venue  @61local
+-  182.18 // ticketing     @useTito
+-  150.00 // entertainment Zac Zinger
+-   47.25 // transport
+
+- 1771.26 // donation      @ScriptEdOrg
 
 )
