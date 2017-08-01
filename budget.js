@@ -805,4 +805,22 @@ process.exit(
 
 - 1771.26 // donation      @ScriptEdOrg
 
+          // BrooklynJS #45 2017-07-20-T19:00Z at @61Local
+          // featuring @jxxf, @clintonhalpin, @jllord, @danvdk, and @rich_harris.
+          // with special musical guest Eric ft Drake.
+
++ 3495.00 // total income
+          // $1,995.00 ticket sales
+          //   $500.00 sponsorship from @github
+          //   $500.00 sponsorship from @keybaseIO
+          //   $500.00 sponsorship from @ChromiumDev
+
+-  750.35 // food & venue  @61local
+-  268.33 // pins          @mlbadges
+-  184.62 // ticketing     @useTito
+-   75.00 // entertainment Eric ft Drake
+-   35.54 // transport
+-   20.83 // google apps   @gsuite
+
+- 2160.33 // donation      @ScriptEdOrg
 )
