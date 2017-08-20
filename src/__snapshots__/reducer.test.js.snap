@@ -1,0 +1,233 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`reducer INITIAL_LOAD loads the event data and selects the next event 1`] = `
+Object {
+  "allEvents": Array [
+    Object {
+      "eventDate": 2017-05-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Awesome Person",
+          "title": "Awesome Talk",
+          "url": "http://www.example.com/awesome",
+        },
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+        Object {
+          "name": "Righteous Person",
+          "title": "Righteous Talk",
+          "url": "http://www.example.com/righteous",
+        },
+        Object {
+          "name": "Wild Person",
+          "title": "Wild Talk",
+          "url": "http://www.example.com/wild",
+        },
+      ],
+      "sponsors": Array [
+        Object {
+          "name": "Generous Sponsor",
+          "url": "http://www.example.com/generous",
+        },
+      ],
+    },
+    Object {
+      "eventDate": 2017-09-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+      ],
+      "sponsors": Array [],
+    },
+    Object {
+      "eventDate": 2017-10-19T04:00:00.000Z,
+      "speakers": Array [],
+      "sponsors": Array [],
+    },
+  ],
+  "currentEvent": Object {
+    "eventDate": 2017-09-21T03:59:59.999Z,
+    "speakers": Array [
+      Object {
+        "name": "Chill Person",
+        "title": "Chill Talk",
+        "url": "http://www.example.com/chill",
+      },
+      Object {
+        "name": "Dope Person",
+        "title": "Dope Talk",
+        "url": "http://www.example.com/dope",
+      },
+    ],
+    "sponsors": Array [],
+  },
+  "currentEventIndex": 1,
+}
+`;
+
+exports[`reducer LOAD_NEXT_EVENT when the currentEvent is not the last event sets the current event to be the next event 1`] = `
+Object {
+  "allEvents": Array [
+    Object {
+      "eventDate": 2017-05-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Awesome Person",
+          "title": "Awesome Talk",
+          "url": "http://www.example.com/awesome",
+        },
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+        Object {
+          "name": "Righteous Person",
+          "title": "Righteous Talk",
+          "url": "http://www.example.com/righteous",
+        },
+        Object {
+          "name": "Wild Person",
+          "title": "Wild Talk",
+          "url": "http://www.example.com/wild",
+        },
+      ],
+      "sponsors": Array [
+        Object {
+          "name": "Generous Sponsor",
+          "url": "http://www.example.com/generous",
+        },
+      ],
+    },
+    Object {
+      "eventDate": 2017-09-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+      ],
+      "sponsors": Array [],
+    },
+    Object {
+      "eventDate": 2017-10-19T04:00:00.000Z,
+      "speakers": Array [],
+      "sponsors": Array [],
+    },
+  ],
+  "currentEvent": Object {
+    "eventDate": 2017-10-19T04:00:00.000Z,
+    "speakers": Array [],
+    "sponsors": Array [],
+  },
+  "currentEventIndex": 2,
+}
+`;
+
+exports[`reducer LOAD_PREVIOUS_EVENT when the currentEvent is not the first event sets the current event to be the previous event 1`] = `
+Object {
+  "allEvents": Array [
+    Object {
+      "eventDate": 2017-05-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Awesome Person",
+          "title": "Awesome Talk",
+          "url": "http://www.example.com/awesome",
+        },
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+        Object {
+          "name": "Righteous Person",
+          "title": "Righteous Talk",
+          "url": "http://www.example.com/righteous",
+        },
+        Object {
+          "name": "Wild Person",
+          "title": "Wild Talk",
+          "url": "http://www.example.com/wild",
+        },
+      ],
+      "sponsors": Array [
+        Object {
+          "name": "Generous Sponsor",
+          "url": "http://www.example.com/generous",
+        },
+      ],
+    },
+    Object {
+      "eventDate": 2017-09-21T03:59:59.999Z,
+      "speakers": Array [
+        Object {
+          "name": "Chill Person",
+          "title": "Chill Talk",
+          "url": "http://www.example.com/chill",
+        },
+        Object {
+          "name": "Dope Person",
+          "title": "Dope Talk",
+          "url": "http://www.example.com/dope",
+        },
+      ],
+      "sponsors": Array [],
+    },
+    Object {
+      "eventDate": 2017-10-19T04:00:00.000Z,
+      "speakers": Array [],
+      "sponsors": Array [],
+    },
+  ],
+  "currentEvent": Object {
+    "eventDate": 2017-09-21T03:59:59.999Z,
+    "speakers": Array [
+      Object {
+        "name": "Chill Person",
+        "title": "Chill Talk",
+        "url": "http://www.example.com/chill",
+      },
+      Object {
+        "name": "Dope Person",
+        "title": "Dope Talk",
+        "url": "http://www.example.com/dope",
+      },
+    ],
+    "sponsors": Array [],
+  },
+  "currentEventIndex": 1,
+}
+`;

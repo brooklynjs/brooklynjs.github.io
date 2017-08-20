@@ -8,7 +8,7 @@ const PlannedDisruption = ({ eventDate }) => {
   return (
     <div className="planned-disruption">
       <span>PLANNED DISRUPTION</span>
-      <span>{longEventDate(eventDate)}</span>
+      <span>{eventDate && longEventDate(eventDate)}</span>
       <br />
       <span>Please follow the directions below.</span>
     </div>

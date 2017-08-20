@@ -57,7 +57,7 @@ const Timeline = ({ eventDate, speakers, sponsors }) => {
       <li className="ride"></li>
 
       <li className="end stop">
-        <time>{shortEventDate(eventDate)}</time>
+        <time>{eventDate && shortEventDate(eventDate)}</time>
         <small>Make your way to our awesome venue,</small>
         <div>
         <a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a>

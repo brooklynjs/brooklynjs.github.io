@@ -22,9 +22,7 @@ exports[`renders 1`] = `
       <span>
         PLANNED DISRUPTION
       </span>
-      <span>
-        Thursday, September 21st, at 7pm
-      </span>
+      <span />
       <br />
       <span>
         Please follow the directions below.
@@ -78,7 +76,7 @@ exports[`renders 1`] = `
         className="stop"
       >
         <time>
-          31 days
+          
         </time>
         <small>
           Nothing to do but
@@ -93,9 +91,7 @@ exports[`renders 1`] = `
       <li
         className="end stop"
       >
-        <time>
-          9/21
-        </time>
+        <time />
         <small>
           Make your way to our awesome venue,
         </small>

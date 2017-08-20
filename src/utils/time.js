@@ -23,6 +23,7 @@ const months = [
   'December'
 ];
 
+// returns format => Thursday, September 21st, at 7pm
 export const longEventDate = (eventDate) => {
   const weekday = days[eventDate.getDay()];
   const month = months[eventDate.getMonth()];
@@ -31,6 +32,7 @@ export const longEventDate = (eventDate) => {
   return [weekday, date, 'at 7pm'].join(', ');
 }
 
+// returns format => 9/21
 export const shortEventDate = (eventDate) => {
   const month = eventDate.getMonth() + 1;
   const date = eventDate.getDate();
@@ -38,6 +40,7 @@ export const shortEventDate = (eventDate) => {
   return [month, date].join('/');
 };
 
+// returns format => 21st
 export const suffixed = (number) => {
   if (number > 9 && number < 21) {
     return `${number}th`;
@@ -57,6 +60,7 @@ export const suffixed = (number) => {
   }
 };
 
+// returns format => 31 days
 export const timeLeft = (eventDate, now = new Date()) => {
   const n = 0 | (eventDate - now) / 86400000
 

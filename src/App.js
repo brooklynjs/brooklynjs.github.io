@@ -5,20 +5,19 @@ import Header from './components/Header';
 import PlannedDisruption from './components/PlannedDisruption';
 import Timeline from './components/Timeline';
 
+import {
+  loadPreviousEvent,
+  loadNextEvent
+} from './reducer';
+
 import './App.css';
 
-const state = {
-  eventDate: new Date(2017, 8, 21),
-  speakers: [],
-  sponsors: []
-};
-
-const App = () => {
+const App = ({ state, dispatch }) => {
   const {
     eventDate,
     speakers,
     sponsors
-  } = state;
+  } = state.currentEvent;
 
   return (
     <div>
