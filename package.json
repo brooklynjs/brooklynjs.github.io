@@ -13,7 +13,8 @@
     "url": "https://github.com/brooklynjs/brooklynjs.github.io.git"
   },
   "devDependencies": {
-    "react-scripts": "1.0.11"
+    "react-scripts": "1.0.11",
+    "react-test-renderer": "^15.6.1"
   },
   "dependencies": {
     "react": "^15.6.1",
