@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`a speaker slot with a speaker renders 1`] = `
+<div>
+  <li
+    className="ride"
+  />
+  <li
+    className="speaker"
+  >
+    <time>
+      8:15p
+    </time>
+    <small>
+      A Very Cool Talk!
+    </small>
+    <div>
+      <a
+        href={undefined}
+      >
+        Willman Duffy
+      </a>
+    </div>
+  </li>
+</div>
+`;
+
+exports[`an empty speaker slot renders 1`] = `
+<div>
+  <li
+    className="ride"
+  />
+  <li
+    className="speaker"
+  >
+    <time>
+      8:15p
+    </time>
+    <small>
+      Listen to our 
+      second
+       speaker, or better yet
+    </small>
+    <div
+      className="empty-speaker"
+    >
+      <a
+        href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+      >
+        Be our 
+        second
+         speaker
+      </a>
+    </div>
+  </li>
+</div>
+`;

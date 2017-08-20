@@ -1,0 +1,19 @@
+.speaker {
+  position: relative;
+  padding-left: 30px;
+}
+
+.speaker:before {
+  background-color: #F7DF1E;
+  content: "";
+  display: block;
+  height: 8px;
+  left: 2px;
+  position: absolute;
+  top: 25px;
+  width: 8px;
+}
+
+.empty-speaker {
+  text-transform: uppercase;
+}

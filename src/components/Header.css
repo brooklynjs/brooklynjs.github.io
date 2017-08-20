@@ -1,0 +1,32 @@
+header {
+  background: #222;
+  border-top: 4px solid #FFF;
+  font-size: 72px;
+  font-weight: bold;
+  line-height: 68px;
+  margin: 20px auto;
+  position: relative;
+  text-align: left;
+  width: 500px;
+}
+
+header span {
+  background: #F7DF1E;
+  border-radius: 50%;
+  color: #222;
+  font-size: 60px;
+  height: 72px;
+  line-height: 72px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 72px;
+}
+
+header .j {
+  right: 80px;
+}
+
+header .s {
+  right: 0;
+}

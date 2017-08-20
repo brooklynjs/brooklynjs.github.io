@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<ol>
+  <li
+    className="end stop"
+  >
+    <time>
+      now
+    </time>
+    <small>
+      See the event board to
+    </small>
+    <div>
+      <a
+        href="http://tickets.brooklynjs.com"
+      >
+        Get your ticket
+      </a>
+       and 
+      <a
+        href="http://tickets.brooklynjs.com"
+      >
+        tell your friends
+      </a>
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="end stop"
+  >
+    <small>
+      Check out our
+    </small>
+    <div>
+      <a
+        href="coc.html"
+      >
+        Code of Conduct
+      </a>
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="stop"
+  >
+    <time>
+      31 days
+    </time>
+    <small>
+      Nothing to do but
+    </small>
+    <div>
+      Wait patiently
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="end stop"
+  >
+    <time>
+      9/21
+    </time>
+    <small>
+      Make your way to our awesome venue,
+    </small>
+    <div>
+      <a
+        href="//61local.com"
+      >
+        61 Local
+      </a>
+       on 
+      <a
+        href="//www.google.com/maps?q=61+Bergen+St+11201"
+      >
+        Bergen St.
+      </a>
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="end stop"
+  >
+    <small>
+      Maybe come early and geek out for some
+    </small>
+    <div>
+      <a
+        href="http://tickets.brooklynjs.com"
+      >
+        Boroughgramming
+      </a>
+    </div>
+  </li>
+  <li
+    className="walk"
+  >
+    <small />
+    <div />
+  </li>
+  <li
+    className="stop"
+  >
+    <time>
+      7:00p
+    </time>
+    <small>
+      Open the gray door in back, and
+    </small>
+    <div>
+      Walk upstairs
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="end stop"
+  >
+    <time>
+      7:30p
+    </time>
+    <small>
+      Grab a seat in time for
+    </small>
+    <div>
+      Introduction and kickoff
+    </div>
+  </li>
+  <div>
+    <li
+      className="ride"
+    />
+    <li
+      className="speaker"
+    >
+      <time>
+        8:00p
+      </time>
+      <small>
+        Listen to our 
+        first
+         speaker, or better yet
+      </small>
+      <div
+        className="empty-speaker"
+      >
+        <a
+          href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+        >
+          Be our 
+          first
+           speaker
+        </a>
+      </div>
+    </li>
+  </div>
+  <div>
+    <li
+      className="ride"
+    />
+    <li
+      className="speaker"
+    >
+      <time>
+        8:15p
+      </time>
+      <small>
+        Listen to our 
+        second
+         speaker, or better yet
+      </small>
+      <div
+        className="empty-speaker"
+      >
+        <a
+          href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+        >
+          Be our 
+          second
+           speaker
+        </a>
+      </div>
+    </li>
+  </div>
+  <div>
+    <li
+      className="ride"
+    />
+    <li
+      className="speaker"
+    >
+      <time>
+        8:30p
+      </time>
+      <small>
+        Listen to our 
+        third
+         speaker, or better yet
+      </small>
+      <div
+        className="empty-speaker"
+      >
+        <a
+          href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+        >
+          Be our 
+          third
+           speaker
+        </a>
+      </div>
+    </li>
+  </div>
+  <div>
+    <li
+      className="ride"
+    />
+    <li
+      className="speaker"
+    >
+      <time>
+        8:45p
+      </time>
+      <small>
+        Listen to our 
+        fourth
+         speaker, or better yet
+      </small>
+      <div
+        className="empty-speaker"
+      >
+        <a
+          href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+        >
+          Be our 
+          fourth
+           speaker
+        </a>
+      </div>
+    </li>
+  </div>
+  <div>
+    <li
+      className="ride"
+    />
+    <li
+      className="speaker"
+    >
+      <time>
+        9:00p
+      </time>
+      <small>
+        Listen to our 
+        fifth
+         speaker, or better yet
+      </small>
+      <div
+        className="empty-speaker"
+      >
+        <a
+          href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new"
+        >
+          Be our 
+          fifth
+           speaker
+        </a>
+      </div>
+    </li>
+  </div>
+  <li
+    className="ride"
+  />
+  <li
+    className="stop"
+  >
+    <time>
+      9:15p
+    </time>
+    <small>
+      Wind down with the
+    </small>
+    <div>
+      Wrap-up
+    </div>
+  </li>
+  <li
+    className="walk"
+  >
+    <small>
+      Round-trip downstairs to the bar to get some
+    </small>
+    <div>
+      Local 
+      <a
+        href="//www.beermenus.com/places/2237-61-local"
+      >
+        craft beer
+      </a>
+       / soda
+    </div>
+  </li>
+  <li
+    className="stop"
+  >
+    <time>
+      12:00a
+    </time>
+    <small>
+      Geek out with your boroughmates during
+    </small>
+    <div>
+      The bevera.js social hour(s)
+    </div>
+  </li>
+  <li
+    className="ride"
+  />
+  <li
+    className="end stop sponsors"
+  >
+    <small>
+      This event made possible by our sponsors
+    </small>
+    <div>
+      <a
+        href="sponsorship.html"
+      >
+        Be our next sponsor.
+      </a>
+    </div>
+  </li>
+</ol>
+`;

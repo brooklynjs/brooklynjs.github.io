@@ -1,0 +1,15 @@
+a {
+  border-bottom: 1px dotted;
+  color: #DDD;
+  text-decoration: none;
+}
+
+article {
+  width: 500px;
+}
+
+small {
+  color: #999;
+  display: block;
+  font-size: 16px;
+}

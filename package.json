@@ -1,18 +1,28 @@
 {
   "name": "brooklynjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The world's most popular programming language, in New York's most popular borough",
-  "scripts": {
-    "test": "node budget.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brooklynjs/brooklynjs.github.io.git"
-  },
   "author": "Jed Schmidt",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/brooklynjs/brooklynjs.github.io/issues"
   },
-  "homepage": "http://brooklynjs.com"
+  "homepage": "http://brooklynjs.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brooklynjs/brooklynjs.github.io.git"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.11"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }

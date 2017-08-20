@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="planned-disruption"
+>
+  <span>
+    PLANNED DISRUPTION
+  </span>
+  <span>
+    Thursday, September 21st, at 7pm
+  </span>
+  <br />
+  <span>
+    Please follow the directions below.
+  </span>
+</div>
+`;

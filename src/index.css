@@ -1,0 +1,13 @@
+body {
+  background: #222;
+  color: #FFF;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 125%;
+  font-weight: 300;
+  letter-spacing: 0.015em;
+  padding: 0;
+}
+
+article {
+  margin: 20px auto;
+}

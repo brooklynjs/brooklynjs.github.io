@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<header>
+  Brooklyn
+  <span
+    className="j"
+  >
+    J
+  </span>
+  <span
+    className="s"
+  >
+    S
+  </span>
+</header>
+`;
