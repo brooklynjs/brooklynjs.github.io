@@ -12,13 +12,13 @@ exports[`a speaker slot with a speaker renders 1`] = `
       8:15p
     </time>
     <small>
-      A Very Cool Talk!
+      Chill Talk
     </small>
     <div>
       <a
-        href={undefined}
+        href="http://www.example.com/chill"
       >
-        Willman Duffy
+        Chill Person
       </a>
     </div>
   </li>

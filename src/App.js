@@ -24,7 +24,11 @@ const App = ({ state, dispatch }) => {
       <Header />
 
       <article>
-        <PlannedDisruption eventDate={eventDate} />
+        <PlannedDisruption
+          eventDate={eventDate}
+          onNextEventClick={() => dispatch(loadNextEvent())}
+          onPreviousEventClick={() => dispatch(loadPreviousEvent())}
+        />
 
         <Timeline
           eventDate={eventDate}

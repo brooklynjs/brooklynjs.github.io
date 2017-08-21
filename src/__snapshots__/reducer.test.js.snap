@@ -40,7 +40,7 @@ Object {
       ],
     },
     Object {
-      "eventDate": 2017-09-21T03:59:59.999Z,
+      "eventDate": 2017-09-22T03:59:59.999Z,
       "speakers": Array [
         Object {
           "name": "Chill Person",
@@ -62,7 +62,7 @@ Object {
     },
   ],
   "currentEvent": Object {
-    "eventDate": 2017-09-21T03:59:59.999Z,
+    "eventDate": 2017-09-22T03:59:59.999Z,
     "speakers": Array [
       Object {
         "name": "Chill Person",
@@ -121,7 +121,7 @@ Object {
       ],
     },
     Object {
-      "eventDate": 2017-09-21T03:59:59.999Z,
+      "eventDate": 2017-09-22T03:59:59.999Z,
       "speakers": Array [
         Object {
           "name": "Chill Person",
@@ -191,7 +191,7 @@ Object {
       ],
     },
     Object {
-      "eventDate": 2017-09-21T03:59:59.999Z,
+      "eventDate": 2017-09-22T03:59:59.999Z,
       "speakers": Array [
         Object {
           "name": "Chill Person",
@@ -213,7 +213,7 @@ Object {
     },
   ],
   "currentEvent": Object {
-    "eventDate": 2017-09-21T03:59:59.999Z,
+    "eventDate": 2017-09-22T03:59:59.999Z,
     "speakers": Array [
       Object {
         "name": "Chill Person",

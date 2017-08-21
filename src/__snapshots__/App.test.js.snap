@@ -19,9 +19,34 @@ exports[`renders 1`] = `
     <div
       className="planned-disruption"
     >
-      <span>
-        PLANNED DISRUPTION
-      </span>
+      <div
+        className="planned-disruption-header"
+      >
+        <a
+          className="test-previous-event"
+          onClick={[Function]}
+        >
+          <img
+            alt="Back"
+            className="left"
+            src="arrow.svg"
+          />
+        </a>
+        <div
+          className="planned-disruption-title"
+        >
+          PLANNED DISRUPTION
+        </div>
+        <a
+          className="test-next-event"
+          onClick={[Function]}
+        >
+          <img
+            alt="Next"
+            src="arrow.svg"
+          />
+        </a>
+      </div>
       <span />
       <br />
       <span>

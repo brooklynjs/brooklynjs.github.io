@@ -36,7 +36,7 @@ export const generousSponsor = {
 }
 
 // Time
-export const today = new Date(2017, 8, 20);
+export const today = new Date(2017, 8, 21);
 
 // Events
 export const futureEvent = {

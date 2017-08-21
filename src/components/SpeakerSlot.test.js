@@ -2,6 +2,8 @@ import React from 'react';
 import ReactTestRenderer from 'react-test-renderer';
 import SpeakerSlot from './SpeakerSlot';
 
+import { chillSpeaker } from '../fixtures';
+
 describe('an empty speaker slot', () => {
   it('renders', () => {
     const component = (
@@ -15,15 +17,9 @@ describe('an empty speaker slot', () => {
 });
 
 describe('a speaker slot with a speaker', () => {
-  const speaker = {
-    title: 'A Very Cool Talk!',
-    name: 'Willman Duffy',
-    website: 'https://www.brooklynjs.com'
-  };
-
   it('renders', () => {
     const component = (
-      <SpeakerSlot speaker={speaker} index={1} />
+      <SpeakerSlot speaker={chillSpeaker} index={1} />
     );
 
     const tree = ReactTestRenderer.create(component).toJSON();

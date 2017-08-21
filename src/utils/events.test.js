@@ -19,8 +19,6 @@ describe('nextEventIndex', () => {
 
   describe('when the next event is Today', () => {
     // August 20, 2017
-    const now = 1503232545609;
-
     it('returns the next event', () => {
       const subject = nextEventIndex(events, today);
 

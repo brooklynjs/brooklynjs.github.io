@@ -4,6 +4,14 @@ import {
   speakerSlotTime
 } from './speakers';
 
+import {
+  awesomeSpeaker,
+  chillSpeaker,
+  dopeSpeaker,
+  righteousSpeaker,
+  wildSpeaker
+} from '../fixtures';
+
 describe('generateSpeakerSlots', () => {
   describe('when there are no speakers', () => {
     const speakers = [];
@@ -17,7 +25,7 @@ describe('generateSpeakerSlots', () => {
   });
 
   describe('when there is a complete speaker lineup', () => {
-    const speakers = ['Robb', 'Sansa', 'Bran', 'Arya', 'Rickon'];
+    const speakers = [awesomeSpeaker, chillSpeaker, dopeSpeaker, righteousSpeaker, wildSpeaker];
 
     it('returns the array of speakers', () => {
       const subject = generateSpeakerSlots(speakers);
@@ -27,11 +35,11 @@ describe('generateSpeakerSlots', () => {
   });
 
   describe('when there is an incomplete speaker lineup', () => {
-    const speakers = ['Sansa', 'Bran', 'Arya'];
+    const speakers = [chillSpeaker, dopeSpeaker, wildSpeaker];
 
     it('returns the speakers with empty speaker slots', () => {
       const subject = generateSpeakerSlots(speakers);
-      const expectation = ['Sansa', 'Bran', 'Arya', null, null];
+      const expectation = [chillSpeaker, dopeSpeaker, wildSpeaker, null, null];
 
       expect(subject).toEqual(expectation);
     });
