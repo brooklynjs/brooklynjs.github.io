@@ -823,4 +823,25 @@ process.exit(
 -   20.83 // google apps   @gsuite
 
 - 2160.33 // donation      @ScriptEdOrg
+
+          // BrooklynJS #45 2017-07-20-T19:00Z at @61Local
+          // featuring @esquiring, @am3thyst, @bdougieYO, @f_forough, and @mapmeld
+          // with special musical guest Dan O'Dea
++ 3435.00 // total income
+          // $1,935.00 ticket sales
+          //   $500.00 sponsorship from @TpTdotcom
+          //   $500.00 sponsorship from @McKinsey
+          //   $500.00 sponsorship from @ChromiumDev
+
+-  815.35 // food & venue            @61local
+-  251.59 // pins                    @mlbadges
+-  228.76 // entertainment
+-  164.13 // ticketing               @useTito
+-   75.12 // courage (USB-C adapter) @apple
+-   85.00 // speaker lodging         @airbnb
+-   31.15 // transport
+-   20.83 // google apps             @gsuite
+-    1.99 // icon for site           @nounproject
+
+- 1761.08 // donation                @ScriptEdOrg
 )
