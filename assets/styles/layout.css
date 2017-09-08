@@ -1,6 +1,6 @@
 body {
   padding: 0;
-  background: #222;
+  background: #1D3F58;
   color: #fff;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
@@ -16,12 +16,10 @@ footer {
 
 header {
   width: 500px;
-  margin: 20px auto;
-  background: #222;
+  margin: 20px auto 0;
   font-weight: bold;
   font-size: 72px;
-  text-align: left;
-  border-top: 4px solid #fff;
+  text-align: center;
   line-height: 68px;
   position: relative;
 }
@@ -35,7 +33,7 @@ header span {
   line-height: 72px;
   font-size: 60px;
   text-align: center;
-  background: #f7df1e;
+  background: #d01031;
   color: #222;
 }
 
@@ -52,7 +50,7 @@ article {
 }
 
 time {
-  color: #999;
+  color: #BBB;
   position: absolute;
   font-size: 16px;
   left: -125px;
@@ -63,7 +61,7 @@ time {
 
 small {
   font-size: 16px;
-  color: #999;
+  color: #BBB;
   display: block;
 }
 
