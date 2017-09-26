@@ -32,7 +32,7 @@ ol {
   width: 12px;
   height: 12px;
   position: absolute;
-  background-color: #1D3F58;
+  background-color: #222;
   border: 3px solid #fff;
   border-radius: 50%;
   display: block;
@@ -45,13 +45,13 @@ ol {
 }
 
 .walk {
-  border-left: 8px dotted #999;
+  border-left: 8px dotted #666;
   margin: -12px 0 -25px -4px;
   padding: 30px 0 40px 26px;
 }
 
 .ride {
-  border-left: 8px solid #d01031;
+  border-left: 8px solid #f7df1e;
   margin: -17px 0 -25px -4px;
   height: 60px;
 }
@@ -66,7 +66,7 @@ ol {
   width: 8px;
   height: 8px;
   position: absolute;
-  background-color: #d01031;
+  background-color: #f7df1e;
   display: block;
   left: 2px;
   top: 25px;
