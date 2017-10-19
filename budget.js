@@ -824,7 +824,7 @@ process.exit(
 
 - 2160.33 // donation      @ScriptEdOrg
 
-          // BrooklynJS #45 2017-07-20-T19:00Z at @61Local
+          // BrooklynJS #46 2017-07-20-T19:00Z at @61Local
           // featuring @esquiring, @am3thyst, @bdougieYO, @f_forough, and @mapmeld
           // with special musical guest Dan O'Dea
 + 3435.00 // total income
@@ -844,4 +844,22 @@ process.exit(
 -    1.99 // icon for site           @nounproject
 
 - 1761.08 // donation                @ScriptEdOrg
+
+          // BrooklynJS #47 (QueensJS Takeover) 2017-07-20-T19:00Z at @61Local
+          // featuring @thegreenhouseio, @samgoertler, @emplums, @WesleydeSouza, and @modernserf
+          // with special musical guest
++ 3480.00 // total income
+          // $1,980.00 ticket sales
+          //   $500.00 sponsorship from @McKinsey
+          //   $500.00 sponsorship from @ChromiumDev
+          //   $500.00 sponsorship from Node Foundation
+-  815.35 // food & venue             @61local
+-  237.12 // pins                     @mlbadges
+-  167.00 // ticketing                @useTito
+-  150.00 // musical guest
+-   37.62 // food & drink for musical guest
+-   29.92 // transport
+-   20.83 // google apps              @gsuite
+
+- 2022.16 // donation                 @ScriptEdOrg
 )
