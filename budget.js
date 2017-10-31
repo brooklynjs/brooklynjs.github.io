@@ -824,7 +824,7 @@ process.exit(
 
 - 2160.33 // donation      @ScriptEdOrg
 
-          // BrooklynJS #46 2017-07-20-T19:00Z at @61Local
+          // BrooklynJS #46 2017-08-17-T19:00Z at @61Local
           // featuring @esquiring, @am3thyst, @bdougieYO, @f_forough, and @mapmeld
           // with special musical guest Dan O'Dea
 + 3435.00 // total income
@@ -845,7 +845,7 @@ process.exit(
 
 - 1761.08 // donation                @ScriptEdOrg
 
-          // BrooklynJS #47 (QueensJS Takeover) 2017-07-20-T19:00Z at @61Local
+          // BrooklynJS #47 (QueensJS Takeover) 2017-09-21-T19:00Z at @61Local
           // featuring @thegreenhouseio, @samgoertler, @emplums, @WesleydeSouza, and @modernserf
           // with special musical guest
 + 3480.00 // total income
