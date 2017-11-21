@@ -879,4 +879,24 @@ process.exit(
 -   20.83 // google apps              @gsuite
 
 - 1366.59 // donation                 @ScriptEdOrg
+
+          // BrooklynJS #49 2017-11-16-T19:00Z at @61Local
+          // featuring @ehashdn, Amit Nambiar, @dcousineau, @lara_hogan, @shanselman
+          // with special musical guest The Broadest Blue
++ 3380.00 // total income
+          // $1,880.00 ticket sales
+          //   $500.00 sponsorship from @ChromiumDev
+          //   $500.00 sponsorship from @kickstarter
+          //   $500.00 sponsorship from @splice
+-  815.35 // food & venue             @61local
+-  701.25 // mugs
+-  163.07 // ticketing                @useTito
+-  150.00 // musical guest
+-  145.02 // big stickers             @stickergiant
+-   92.07 // transport
+-   80.64 // cables & other supplies  @amazon
+-   43.72 // small stickers           @MOO
+-   20.83 // google apps              @gsuite
+
+- 1168.05 // donation                 @ScriptEdOrg
 )
