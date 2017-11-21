@@ -862,4 +862,21 @@ process.exit(
 -   20.83 // google apps              @gsuite
 
 - 2022.16 // donation                 @ScriptEdOrg
+
+          // BrooklynJS #48 2017-10-19-T19:00Z at @61Local
+          // featuring @__andreGarvin__, @rossta, @imightbeamy, @challuniverse, @eric_b_wood
+          // with special musical guest Paulina Vo
++ 2920.00 // total income
+          // $1,920.00 ticket sales
+          //   $500.00 sponsorship from @ChromiumDev
+          //   $500.00 sponsorship from @clarifai
+-  815.35 // food & venue             @61local
+-  337.25 // pins                     @mlbadges
+-  150.00 // musical guest
+-  143.61 // ticketing                @useTito
+-   49.29 // transport
+-   37.24 // a lot of nametags        @amazon
+-   20.83 // google apps              @gsuite
+
+- 1366.59 // donation                 @ScriptEdOrg
 )
