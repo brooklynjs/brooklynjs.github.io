@@ -4,10 +4,10 @@
 We welcome & encourage _everyone_ to submit a talk!
 Whether you have been writing JavaScript for 20 years or few days, experienced or 1st time speaker*, we want to hear what you are excited about.
 
-*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Petersen (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their first talk at BrooklynJS, then started speaking at different meetups and conferences. BrooklynJS is very first time speaker friendly!*
+_*Our speaker alumni includes Jenna Zeigen (@zeigenvector), Drew Petersen (@KirbySaysHi), Sarah Saltrick Meyer (@meyerini), Byron Hulcher (@hypirlink) & many more who gave their first talk at BrooklynJS, then started speaking at different meetups and conferences. BrooklynJS is very first time speaker friendly!_
 
 ## How do I submit a talk?
-If you'd like to submit a talk, visit the our site GitHub repository and [create a new issue](https://github.com/brooklynjs/brooklynjs.github.io/issues/new) using the template. Make sure to pick up to 3 months that work for you!
+Visit the our site GitHub repository and [create a new issue](https://github.com/brooklynjs/brooklynjs.github.io/issues/new) using the template. Make sure to pick up to 3 months that work for you!
 
 ## What would be a good talk topic?
 We accept a variety of technical and non-technical talks and the audience has varying technical backgrounds and interests.
@@ -35,7 +35,7 @@ Examples of topics that may not get accepted:
 ## When are speakers chosen?
 We usually select speakers two weeks before an event, the day before tickets go on sale.
 
-_**Current employees of sponsors are not selected to speak on the months of their employer's sponsorship._
+_*Current employees of sponsors are not selected to speak on the months of their employer's sponsorship._
 
 ## I have more questions about submitting talks, what should I do?
 Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique @jennschiffer @zeigenvector or email us at organizers@brooklynjs.com
