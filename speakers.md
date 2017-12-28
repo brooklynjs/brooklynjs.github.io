@@ -10,9 +10,21 @@ Whether you have been writing JavaScript for 20 years or few days, experienced o
 If you'd like to submit a talk, visit the our site GitHub repository and [create a new issue](https://github.com/brooklynjs/brooklynjs.github.io/issues/new) using the template. Make sure to pick up to 3 months that work for you!
 
 ## What would be a good talk topic?
-(TBD on workflow)
+We accept a variety of technical and non-technical talks and the audience has varying technical backgrounds and interests.
 
-## What do Speakers get?
+Talks from accepted proposals have focused on, but not limited to:
+- Sharing the process and journey of how you created something and what you've learned.
+- Achieving empathy in the workplace.
+- A dive into a particular technical concept.
+
+Examples of topics that may not get accepted:
+- Why x framework is better than y framework.
+- How a tool/language/library works.
+- Startup or company pitches.
+
+ We've found that the best talks tell a story, we encourage you to get creative! Browse past [accepted talks](https://github.com/brooklynjs/brooklynjs.github.io/issues?q=is%3Aissue+label%3Aaccepted+is%3Aclosed) to get ideas and inspiration.
+
+## What do speakers get?
 - 1 Boroughgramming* ticket (Free) for you to attend.
 - 1 regular BrooklynJS ticket ($15) for a guest that you'd like to have watch your talk.
 - 10 minutes to present what you are excited about in front of 100 borough-mates.
@@ -23,11 +35,13 @@ If you'd like to submit a talk, visit the our site GitHub repository and [create
 ## When are speakers chosen?
 We usually select speakers two weeks before an event, the day before tickets go on sale.
 
+_**Current employees of sponsors are not selected to speak on the months of their employer's sponsorship._
+
 ## I have more questions about submitting talks, what should I do?
 Please feel free to ping us on twitter @kosamari @willmanduffy @brianloveswords @paladique @jennschiffer @zeigenvector or email us at organizers@brooklynjs.com
 
 # Speaking at BrooklynJS
-We are excited to have you as speaker! Here is few things to keep in mind when you are making your talk. If you have any question or want to discuss your talk with organizers, please feel free to ping us!
+We are excited to have you as speaker! Here is few things to keep in mind when you are making your talk. If you have any questions or want to discuss your talk with organizers, please feel free to ping us!
 
 ## How long is my talk?
 Each talk is 10 min. We'll have a countdown clock on the wall for your reference.
