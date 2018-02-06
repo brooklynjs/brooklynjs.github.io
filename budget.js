@@ -899,4 +899,36 @@ process.exit(
 -   20.83 // google apps              @gsuite
 
 - 1168.05 // donation                 @ScriptEdOrg
+
+          // BrooklynJS #50 2017-12-21-T19:00Z at @61Local
+          // featuring @Madamelic, @rafaelrinaldi, @steveklabnik, @jennschiffer
+          // with special musical guest @hi_codie
++ 3135.00 // total income
+          // $1,785.00 ticket sales
+          // $1,350.00 3 month sponsorship from @mongodb
+-  815.35 // food & venue             @61local
+-  323.15 // pins                     @mlbadges
+-  176.11 // musical guest            @hi_codie
+-  149.41 // ticketing                @useTito
+-   41.70 // transport
+-   22.68 // google apps              @gsuite
+
+- 1606.60 // donation                 @ScriptEdOrg
+
+          // BrooklynJS #51 2018-01-18-T19:00Z at @61Local
+          // featuring @adamzdanielle, @robbykraft, @ThisIsMaryCodes, @denik, @georgemandis
+          // with special musical guest The Four Fives
++ 2890.00 // total income
+          // $1,890.00 ticket sales
+          //   $500.00 sponsorship from @reaktornow
+          //   $500.00 sponsorship from @kickstarter
+-  815.35 // food & venue             @61local
+-  335.25 // pins                     @mlbadges
+-  150.00 // musical guest            The Four Fives
+-  150.00 // speaker travel stipend
+-  141.52 // ticketing                @useTito
+-   38.08 // transport
+-   22.68 // google apps              @gsuite
+
+- 1237.12 // donation                 @ScriptEdOrg
 )
