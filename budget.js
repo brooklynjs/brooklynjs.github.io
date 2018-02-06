@@ -924,9 +924,10 @@ process.exit(
           //   $500.00 sponsorship from @kickstarter
 -  815.35 // food & venue             @61local
 -  335.25 // pins                     @mlbadges
--  188.08 // musical guest            The Four Fives
+-  150.00 // musical guest            The Four Fives
 -  150.00 // speaker travel stipend
 -  141.52 // ticketing                @useTito
+-   38.08 // transport
 -   22.68 // google apps              @gsuite
 
 - 1237.12 // donation                 @ScriptEdOrg
