@@ -931,4 +931,25 @@ process.exit(
 -   22.68 // google apps              @gsuite
 
 - 1237.12 // donation                 @ScriptEdOrg
+
+
+          // BrooklynJS #52 2018-02-15-T19:00Z at @61Local
+          // featuring @simplyahmaz1ng, @loganmeetsworld, ry dahl, @chinedufn, and @samantha_gold
+          // with special musical guest Eric Wood
++ 3450.00 // total income
+          // $1,950.00 ticket sales
+          //   $500.00 sponsorship from Codesmith (@codesmithio)
+          //   $500.00 sponsorship from Everplans (@everplans)
+          //   $500.00 sponsorship from Scripto
+-  815.35 // food & venue             @61local
+-  165.04 // ticketing                @useTito
+-   22.68 // google apps              @gsuite
+
+          // BrooklynJS #53 2018-03-15T19:00Z at @61Local
+          // Bevara.js edition. Snacks sponsored by @datadoghq
+-  295.84 // pins                     @mlbadges
+-  115.00 // venue                    @61local
+-   22.68 // google apps              @gsuite
+
+- 2013.41 // donation                 @ScriptEdOrg (for Feb and March)
 )
