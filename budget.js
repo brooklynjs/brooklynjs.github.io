@@ -932,6 +932,7 @@ process.exit(
 
 - 1237.12 // donation                 @ScriptEdOrg
 
+/*****************************************************************************/
 
           // BrooklynJS #52 2018-02-15-T19:00Z at @61Local
           // featuring @simplyahmaz1ng, @loganmeetsworld, ry dahl, @chinedufn, and @samantha_gold
@@ -945,6 +946,8 @@ process.exit(
 -  165.04 // ticketing                @useTito
 -   22.68 // google apps              @gsuite
 
+/*****************************************************************************/
+
           // BrooklynJS #53 2018-03-15T19:00Z at @61Local
           // Bevara.js edition. Snacks sponsored by @datadoghq
 -  295.84 // pins                     @mlbadges
@@ -952,4 +955,52 @@ process.exit(
 -   22.68 // google apps              @gsuite
 
 - 2013.41 // donation                 @ScriptEdOrg (for Feb and March)
+
+/*****************************************************************************/
+// BrooklynJS #54 2018-04-19 at @61Local
+// featuring @dphiffer, @jozanza, @jugglewheels, @mapmeld, and @copasetickid
+
++ 2950.00 // total income
+          // $1,950.00 ticket sales
+          //   $500.00 sponsorship from Codesmith (@codesmithio)
+          //   $500.00 sponsorship from Trialspark (@Trialspark)
+-  815.35 // venue
+-  145.83 // ticketing
+-   22.68 // google apps
+
+- 1966.14 // donation to @scriptedorg
+
+/*****************************************************************************/
+// BrooklynJS #55 2018-05-17 at @61Local
+// featuring @mathias, @markhintz, @nicktweatie, @keiranwking, and @noopkat
+
++ 1905.00 // total income, all ticket sales
+-  815.35 // venue
+-  103.53 // ticketing
+-   22.63 // google apps
+
+-  963.49 // donation to @scriptedorg
+
+/*****************************************************************************/
+// BrooklynJS #56 2018-06-21 at @61Local
+// featuring @statisticsftw, @asiahoe, @donohoe, @arshia__, @slohmes
+// with musical guest @maninilchiani
+
++ 3225.00 // total income
+          // $1,725.00 ticket sales
+          //   $500.00 First Street Foundation
+          //   $500.00 Datadog (@datadoghq)
+          //   $500.00 Envested (@AlwaysEnvested)
+-  815.35 // venue
+-  300.00 // year supply of pronoun stickers
+-  153.88 // ticketing
+-  150.00 // pin design for july
+-  150.00 // musician
+-   72.59 // power strips and extension cables
+-   32.86 // musician tab
+-   22.68 // google apps
+-   11.97 // power cable for amp
+
+- 1515.67 // donation to @scriptedorg
+
 )
