@@ -8,44 +8,6 @@
     <meta name="viewport" content="width=device-width">
     <link rel='stylesheet' type='text/css' href='assets/styles/layout.css'  />
     <link rel='stylesheet' type='text/css' href='assets/styles/index.css'  />
-    <script>
-      var then = new Date(2018, 8, 20)
-      var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
-      var months = 'January February March April May June July August September October November December'.split(' ')
-      function suffixed(number) {
-        if (number > 9 && number < 21)
-          return number + "th"
-        var lastDigit = number % 10
-        switch (lastDigit) {
-         case 1: return number + "st"
-         case 2: return number + "nd"
-         case 3: return number + "rd"
-        default: return number + "th"
-        }
-      }
-      function longEventDate() {
-        var weekday = days[then.getDay()]
-        var month = months[then.getMonth()]
-        var date = month + " " + suffixed(then.getDate())
-        document.write([weekday, date, "at 7pm"].join(", "))
-      }
-      function shortEventDate() {
-        document.write((then.getMonth()+1) + "/" + then.getDate())
-      }
-      function timeLeft() {
-        var now = new Date
-        var n = 0 | (then - now) / 86400000
-        document.write(
-          n >  1 ? n + " days" :
-          n == 1 ? "1 day"     :
-          n == 0 ? "A while"   : ""
-        )
-      }
-      function speakerTime() {
-        speakerTime.i = -~speakerTime.i
-        document.write("7:" + speakerTime.i + "0p")
-      }
-    </script>
   </head>
   <body>
     <header>
@@ -57,7 +19,7 @@
     <article>
       <p>
         PLANNED SERVICE CHANGE<br>
-        BrooklynJS service is suspended during the month of September due to <href a="empirejs.org">EmpireJS</a>. Service will be restored in October.
+        BrooklynJS service is suspended during the month of September due to <a href="empirejs.org">EmpireJS</a>. Service will be restored in October.
       </p>
     </article>
     <footer>
