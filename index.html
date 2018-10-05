@@ -8,6 +8,44 @@
     <meta name="viewport" content="width=device-width">
     <link rel='stylesheet' type='text/css' href='assets/styles/layout.css'  />
     <link rel='stylesheet' type='text/css' href='assets/styles/index.css'  />
+    <script>
+      var then = new Date(2018, 8, 20)
+      var days = 'Sunday Monday Tuesday Wednesday Thursday Friday Saturday'.split(' ')
+      var months = 'January February March April May June July August September October November December'.split(' ')
+      function suffixed(number) {
+        if (number > 9 && number < 21)
+          return number + "th"
+        var lastDigit = number % 10
+        switch (lastDigit) {
+         case 1: return number + "st"
+         case 2: return number + "nd"
+         case 3: return number + "rd"
+        default: return number + "th"
+        }
+      }
+      function longEventDate() {
+        var weekday = days[then.getDay()]
+        var month = months[then.getMonth()]
+        var date = month + " " + suffixed(then.getDate())
+        document.write([weekday, date, "at 7pm"].join(", "))
+      }
+      function shortEventDate() {
+        document.write((then.getMonth()+1) + "/" + then.getDate())
+      }
+      function timeLeft() {
+        var now = new Date
+        var n = 0 | (then - now) / 86400000
+        document.write(
+          n >  1 ? n + " days" :
+          n == 1 ? "1 day"     :
+          n == 0 ? "A while"   : ""
+        )
+      }
+      function speakerTime() {
+        speakerTime.i = -~speakerTime.i
+        document.write("7:" + speakerTime.i + "0p")
+      }
+    </script>
   </head>
   <body>
     <header>
@@ -18,9 +56,127 @@
 
     <article>
       <p>
-        PLANNED SERVICE CHANGE<br>
-        BrooklynJS service is suspended during the month of September due to <a href="//empirejs.org">EmpireJS</a>. Service will be restored in October.
+        PLANNED DISRUPTION<br>
+        <script>longEventDate()</script><br><br>
+        Please follow the directions below.
       </p>
+      <ol>
+        <li class="end stop">
+          <time>now</time>
+          <small>See the event board to</small>
+          <div><a href="http://tickets.brooklynjs.com">Get your ticket</a> and <a href="http://tickets.brooklynjs.com">tell your friends</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="stop end">
+          <small>Check out our</small>
+          <div><a href="coc.html">Code of Conduct</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="stop">
+          <time>
+            <script>timeLeft()</script>
+          </time>
+          <small>Nothing to do but</small>
+          <div>Wait patiently</div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time><script>shortEventDate()</script></time>
+          <small>Make your way to our awesome venue,</small>
+          <div><a href="//61local.com">61 Local</a> on <a href="//www.google.com/maps?q=61+Bergen+St+11201">Bergen St.</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time></time>
+          <small>Maybe come early and geek out for some</small>
+          <div><a href="http://tickets.brooklynjs.com">Boroughgramming</a></div>
+        </li>
+        <li class="walk">
+          <small></small>
+          <div></div>
+        </li>
+         <li class="stop">
+          <time>7:00p</time>
+          <small>Open the gray door in back, and</small>
+          <div>Walk upstairs</div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop">
+          <time>7:30p</time>
+          <small>Grab a seat in time for</small>
+          <div>Introduction and kickoff</div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:00p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our first speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new">BE OUR FIRST SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:15p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our second speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new">BE OUR SECOND SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:30p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our third speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new">BE OUR THIRD SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>8:45p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our fourth speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new">BE OUR FOURTH SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="speaker">
+          <time>9:00p</time>
+          <!--
+            To add yourself to this slot, change the following two lines
+            and add a short description paragraph in the pull request.
+          -->
+          <small>Listen to our fifth speaker, or better yet</small>
+          <div><a href="https://github.com/brooklynjs/brooklynjs.github.io/issues/new">BE OUR FIFTH SPEAKER</a></div>
+        </li>
+        <li class="ride"></li>
+        <li class="stop">
+          <time>9:15p</time>
+          <small>Wind down with the</small>
+          <div>Wrap-up</div>
+        </li>
+        <li class="walk">
+          <small>Round-trip downstairs to the bar to get some</small>
+          <div>Local <a href="//www.beermenus.com/places/2237-61-local">craft beer</a> / soda</div>
+        </li>
+        <li class="stop">
+          <time>12:00a</time>
+          <small>Geek out with your boroughmates during</small>
+          <div>The bevera.js social hour(s)</div>
+        </li>
+        <li class="ride"></li>
+        <li class="end stop sponsors">
+          <small>This event made possible by our sponsors.</small>
+          <div><a href="sponsorship.html">Be our next sponsor.</a></div>
+        </li>
+      </ol>
     </article>
     <footer>
       BrooklynJS expects all speakers and attendees<br>to follow the <a href="//jsconf.com/codeofconduct.html">JSConf code of conduct</a>. For more information about us, see our FAQs for <a href="https://github.com/brooklynjs/brooklynjs.github.io/blob/master/speakers.md">speakers</a>, <a href="https://github.com/brooklynjs/brooklynjs.github.io/blob/master/attendee-faq.md">attendees</a>, and <a href="sponsorship.html">sponsors</a>, or <a href="https://github.com/jed/building-brooklynjs">learn more about our history</a>.
