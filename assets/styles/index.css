@@ -59,6 +59,7 @@ ol {
 .speaker {
   position: relative;
   padding-left: 30px;
+  line-height: 1em;
 }
 
 .speaker:before {
