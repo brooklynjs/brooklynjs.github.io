@@ -1070,7 +1070,7 @@ process.exit(
 - 506.86  // pins rush order from @pinmart
 - 194.69  // musical guest
 - 99.00   // speaker transportation
-- 923.10  // donation to @scripted
 
+- 923.10  // donation to @scripted
 /*****************************************************************************/
 )
