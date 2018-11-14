@@ -1049,7 +1049,7 @@ process.exit(
 /*****************************************************************************/
 // BrooklynJS took a break in September 2018!
 /*****************************************************************************/
-// BrooklynJS #58 2018-10-18 at @61Local
+// BrooklynJS #59 2018-10-18 at @61Local
 // featuring speakers
 //   - Justin Falcone (@modernserf)
 //   - Tannr Allard (@TannrAllard)
