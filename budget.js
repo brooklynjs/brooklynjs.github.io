@@ -1064,13 +1064,13 @@ process.exit(
 
 + 2875.00 // ticket sales and sponsorships
 - 140.64  // tito fees
-- 45.36	  // google apps (sept and oct)
+- 45.36   // google apps (sept and oct)
 - 815.35  // space & food
 - 150.00  // pin design by @emilywithcurls
 - 506.86  // pins rush order from @pinmart
 - 194.69  // musical guest
 - 99.00   // speaker transportation
 
-- 923.10  // donation to @scripted
+- 923.10  // donation to @scriptedorg
 /*****************************************************************************/
 )
