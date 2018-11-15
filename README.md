@@ -13,7 +13,7 @@ This repository serves two primary purposes:
 
 1. Talks are proposed via issues; just [open a new issue](https://github.com/brooklynjs/brooklynjs.github.io/issues/new) and fill out the template fields. Anybody who proposes a talk gets early priority access to ticket sales for that month regardless of whether the talk is accepted.
 
-1. For accounting purposes, [budget.js](budget.js) contains an exhaustive historical log of all funds raised. All proceeds are donated to worthwhile charities, notably including [ScriptEd](https://www.scripted.org/).
+1. For accounting purposes, [budget.js](budget.js) contains an exhaustive historical log of all funds raised. All proceeds are donated to worthwhile charities, notably including [Code Nation](https://codenation.org/).
 
 Brooklyn is obviously cooler, but nonetheless, you might also be interested in [QueensJS](http://www.meetup.com/QueensJS/), [ManhattanJS](http://manhattanjs.com/), and [JerseyScript](http://jerseyscript.github.io/).
 
