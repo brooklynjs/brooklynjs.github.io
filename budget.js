@@ -1003,4 +1003,74 @@ process.exit(
 
 - 1515.67 // donation to @scriptedorg
 
+/*****************************************************************************/
+// BrooklynJS #57 2018-07-19 at @61Local
+// featuring speakers
+//   - Mu-An Chiou (@muanchiou)
+//   - Garen Torikian (@gjtorikian)
+//   - Omar Delarosa (@omardelarosa)
+//   - Tyler Gaw (@tylergaw)
+//   - Rachel White (@ohhoe)
+// with musical guest Paulina Vo
+// and sponsor EmpireJS (empirejs.org)
+
++ 2420.00 // ticket sales and sponsorships
+- 124.17  // tito fees
+- 22.68   // google apps
+- 260.46  // custom pins from @mlbadges
+- 815.35  // space & food
+- 181.88  // musical guest
+- 33.58   // name badge supplies
+
+- 981.88 // donation to @scriptedorg
+
+/*****************************************************************************/
+// BrooklynJS #58 2018-08-17 at @61Local
+// featuring speakers
+//   - Robert Scarano (@scarano)
+//   - Dan Ubilla (@dubilla)
+//   - Grace Kwan (@gckwan)
+//   - Thomas Boyt (thomasboyt.com)
+//   - Myles Borins (@MylesBorins)
+// with musical guest Automaatio
+// and sponsors
+//   - Arturo (arturo.video)
+//   - New York Magazine (nymag.com)
+
++ 3435.00 // ticket sales and sponsorships
+- 164.29  // tito fees
+- 22.68   // google apps
+- 815.35  // space & food @61local
+- 175.00  // musical guest
+- 150.00  // pin design by @emilywithcurls
+- 216.27  // custom pins from @mlbadges
+
+- 1891.41 // donation to @scriptedorg
+/*****************************************************************************/
+// BrooklynJS took a break in September 2018!
+/*****************************************************************************/
+// BrooklynJS #59 2018-10-18 at @61Local
+// featuring speakers
+//   - Justin Falcone (@modernserf)
+//   - Tannr Allard (@TannrAllard)
+//   - Zainab Ebrahimi (@zainab3brahimi)
+//   - Alex Castillo (castillo.io)
+//   - Melody Starling (@pixelyunicorn)
+// with musical guests Dan O'Dea & Tony Delello
+// and sponsors
+//   - Button (usebutton.com)
+//   - Greenhouse (greenhouse.com)
+//   - Unlock (unlock-protocol.com)
+
++ 2875.00 // ticket sales and sponsorships
+- 140.64  // tito fees
+- 45.36   // google apps (sept and oct)
+- 815.35  // space & food
+- 150.00  // pin design by @emilywithcurls
+- 506.86  // pins rush order from @pinmart
+- 194.69  // musical guest
+- 99.00   // speaker transportation
+
+- 923.10  // donation to @scriptedorg
+/*****************************************************************************/
 )
