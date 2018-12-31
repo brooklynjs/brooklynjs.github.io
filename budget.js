@@ -1073,4 +1073,49 @@ process.exit(
 
 - 923.10  // donation to @scriptedorg
 /*****************************************************************************/
+// BrooklynJS #60 2018-11-15 at @61Local
+// featuring speakers
+//   - Tierney Cyren (@bitandbang)
+//   - Killian McMahon (@kilmc)
+//   - Jesse Kipp (@toomanybees)
+//   - Phil Calvin (@pnc)
+//   - Alex Holachek (@alex_holachek)
+// with musical guests The Four Fives
+// and sponsors
+//   - Teachable (teachable.com)
+//   - Polycade (polycade.com)
+
++ 2980.00  // ticket sales and sponsorships
+- 147.41   // tito fees
+- 22.68    // google apps
+- 815.35   // space & food
+- 50.52    // balloons & helium & celebration stuff
+- 150.00   // pin design by @emilywithcurls
+- 287.79   // pins from @mlbadges
+- 596.64   // webpacks
+
+- 909.61   // donation to @itsCodeNation
+/*****************************************************************************/
+// BrooklynJS #61 2018-12-20 at @61Local
+// featuring speakers
+//   - Saimon Sharif (@saimonsharif)
+//   - Cory Etzkorn (@coryetzkorn)
+//   - Andrey Sitnik (@andreysitnik)
+//   - Amy Cheng (@am3thyst)
+//   - Sarah Meyer
+// with musical guests Meaner Pencil (meanerpencil.com)
+// and sponsors
+//   - MongoDB (mongodb.com)
+
++ 2285.00 // ticket sales and sponsorships
+
+- 117.04  // tito fees
+- 22.68   // google apps
+- 825.56  // space & food
+- 150.00  // musical guest
+- 150.00  // pin design by @emilywithcurls
+- 350.92  // pins from @mlbadges
+
+- 668.80  // donation to @itsCodeNation
+ /*****************************************************************************/
 )
