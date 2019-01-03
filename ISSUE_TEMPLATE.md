@@ -6,7 +6,7 @@
 
 **Name**:
 
-**Preferred Pronouns**:
+**Pronouns**:
 
 **Twitter Handle (optional)**:
 
