@@ -56,7 +56,7 @@ If you are live coding or showing your terminal etc, please keep your font size 
 We have:
 - WiFi
 - VGA
-- VGA to Thunderbolt adapters
+- VGA to Thunderbolt and VGA to USB-C adapters
 
 Please bring any adapters if you need special one. We can also bring a portable speaker if you have audio in your demo or presentation. Please let us know in advance. If you have any other needs for your talk, feel free to contact the organizers.
 
